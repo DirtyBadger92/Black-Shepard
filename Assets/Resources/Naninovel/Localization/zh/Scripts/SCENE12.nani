@@ -1,0 +1,394 @@
+; English <en> to Chinese <zh> localization document for `SCENE12` naninovel script
+
+# 1b1b4fd
+; Let's think about it. What do we usually do when we are depressed? We can get drunk. Can we do it here? No. We can go to bed and sleep for a month. Can we do it here? Not really. These people have some serious sleep problems since it's bright 24/7. We can kill ourselves. Sorry, not here. Well, what can we do then? Sex. Can we have sex here? Oh yeah. But! How do we choose our partners when everybody is so nice and sexy? Or at least we think so. Well, we don't. We don't choose. We sleep with everybody around. Fun? Yeah, if you are on vacation. But try to live like that for more than two months.
+
+# 30971379
+; @choice "Chaos." goto:.Chaos.
+
+# 44a80ba1
+; So what now? Can we just get used to it? And live like this forever? Some can, some can't. There are guys who can't live without true love. Others can't live without constatly being drunk, without the freedom to end life when it becomes unbearable. And some just can't live without clear rules, without knowing what is right and wrong, who is friend and who is foe. And they are willing to fight for it. Will they succeed? Will they save fhe people of Gravesotone from endless misery? Let's find out. Pick your daredevil. ''The Good'' is our main story. If you think he's too weak to save the town, you can choose one of two alternative stories. Or you can see how he does and come back here later. 
+
+# a7b3bdd4
+; @choice "The Good." goto:.The_Good.
+
+# b1632df7
+; You are seriously pissed off. You no longer want to hepl these people. You tried, but they themselves made it impossible. Now you only want to leave this place. Oh, and the money, obviously. You make up your mind. You have to do something you didn't want to do, but is seems you have no choice. You need to find the real evil in yourself. And you know it's there. You were born with it. 
+
+# 5515c2c6
+; @choice "Wait. Let's contemplate this for a moment." goto:.Wait._Let's_contemplate_this_for_a_moment.
+
+# e25a07ad
+; @choice "There_is_no_time_to_waste." goto:.There_is_no_time_to_waste.
+
+# cea81134
+; Are you sure that's a good idea? Of course not. Do you really wanna do it? Hell no! So maybe don't do it. That's an option, but it's even worse. You don't want to spend the rest of your life, oh wait, right, the eternity in this place, with these people. What about the widow? That wouldn't be that bad. But she has this annoying son. Right. OK. So let's say you actually do it.
+
+# 31cafc97
+; @choice "What then?" goto:.What_then?
+
+# 462fb096
+; @choice "Let's actually do it." goto:.There_is_no_time_to_waste.
+
+# 72db202d
+; You forgot what you promised yourself? Never to be like your father? Of course you didn't, you've been fighting with him all your life. What if you go too far? What if you cross the line you were afraid to even approach? And you won't be able to go back? Or even worse, you won't want to? You feel the risk. You know it exists and you can tell it's huge. But hey, you are strong, you have good character, you are the Good, remember? You'll be fine. Just this once. You do your thing and then return to your old way of life. To fighting evil. As it should be.
+
+# 29e14d02
+; @choice "That's right. Just this once." goto:.There_is_no_time_to_waste.
+
+# 1b4a5742
+; You need to find the Bad. Easy. You go to church. And there he is, lying with his face on the floor, praying to the Virgin Mary. He doesn't notice you.
+
+# c786ff95
+; @choice "Help him notice you." goto:.Help_him_notice_you.
+
+# 6ee8b32b
+; @choice "A quick prayer won't hurt you." goto:.A_quick_prayer_won't_hurt_you.
+
+# d4b1b7e8
+; You gently kick him in the leg. But he is so immersed in prayer that he doesn't even notice. You kick him harder. Here we go. Luckily, there is no one here but you two.
+
+# 8068810a
+; @choice "Leave the church." goto:.Sounds_like_a_plan.
+
+# 3b863184
+; You kneel at the altar. You start praying with your eyes closed. Oddly, the scar on your neck is starting to bother you a bit. You ask God to make it all work and for the world to return to normal. Wait a minute. Aren't those good intentions? Yup, they are. Get out of there before it's too late. Get out now. You take the Bad with you.
+
+# 95cc971
+; @choice "Sounds like a plan." goto:.Sounds_like_a_plan.
+
+# fa18fef1
+; You look at each other. He knows. "Midnight sharp", you say reluctantly. He nods. You both know there is no other way. You shake hands and walk away.
+
+# a7d47b90
+; @choice "It's almost midnight." goto:.It's_almost_midnight.
+
+# 75027694
+; @choice "Let's visit the beautiful widow." goto:.Let's_visit_the_beautiful_widow.
+
+# 376f809f
+; You still don't believe you're really going to do it. You try not to think about it. The widow will help you to relax a bit, that's for sure. Fortunately, her annoying child is playing somewhere in the woods. Meanwhile, you and the lady are having an intellectual chat. You explain Hegel to her. She tells you about Kant. You wish you could stay and philosophize a bit more but you have things to do.
+
+# a7d47b90
+; @choice "It's almost midnight." goto:.It's_almost_midnight.
+
+# cd025ba7
+; @choice "What about the Bad? Will he actually fight?" goto:.What_about_the_Bad?_Will_he_actually_fight?
+
+# f295b493
+; Of course not. It's against his beliefs. He agreed to the duel so he can sacrifice himself. Very smart. And very Jesus-like. He's getting better and better. Well, as he wishes.
+
+# 293627a8
+; @choice "It's time." goto:.It's_almost_midnight.
+
+# 5dd63c31
+; The townspeople slowly gather in the square. There is not a trace of hope on their faces. But what else do they have to do? Exactly. Nothing. They look like the living dead. Although it is the middle of the night, the sun, as always, is blazing mercilessly. Flies are buzzing. And who is that? Is that you?
+
+# 447e94db
+; @choice "No." goto:.No.
+
+# dbf4945
+; The Bad appeares dressed all in white, just like you. He also looks like you, so everybody thinks it's... that's right, you.
+
+# d740c6da
+; @choice "What's wrong with him?" goto:.What's_wrong_with_him?
+
+# 38f55ed2
+; @choice "But you were prepared." goto:.But_you_were_prepared.
+
+# efab1f44
+; Is this even a serious question? In this case, however, the Bad behaved quite reasonably. He decided that the color white is better suited to his new, crystal-clear personality. But won't he be mistaken for you now? No. And that's because you are a smart guy.
+
+# 6feb9571
+; @choice "You knew it." goto:.But_you_were_prepared.
+
+# f73e2c4a
+; You have no idea how, but you just knew it was going to happen. And so you dressed all in black. That's even better, because it will be easier for you to fit into your new role. Great. It's one minute to midnight. You and the Bad take positions. You stand opposite each other at a considerable distance. The Bad is calm. You? Not at all. You are struggling with your thoughts, though you know it's too late for that. You  are staring at each other. The Bad smiles at you. He's the reason you're here. He's the one who put you in this situation. You think about it and it pisses you off. You are seriously pissed.
+
+# d98e8
+; @choice "The clock in the tower strikes midnight." goto:.The_clock_in_the_tower_strikes_midnight.
+
+# a2694aa0
+; When you hear that sound you stop thinking and start acting like a machine. With a quick move you pull both your revolvers out of the holster. 
+
+# 19c18f90
+; @choice "You_shoot." goto:.You_shoot.
+
+# 4378a42b
+; @choice "What about the Bad?" goto:.What_about_the_Bad?
+
+# d6830516
+; He pulled his guns too. But only for dramatic effect. He wasn't going to shoot. But you sure as hell were.
+
+# 15a25f3e
+; @choice "Shoot." goto:.You_shoot.
+
+# 83bc11a4
+; You hit him in the left thigh. Is that where you were aiming? You possibly hit the femoral artery, cause there's blood everywhere. Contrary to your intentions, the wound could have been fatal. But it's not. People look up at the sky. Nothing changes, the sun doesn't move an inch. You don't understand.
+
+# 522839cd
+; @choice "But the Bad does." goto:.But_the_Bad_does.
+
+# c193c8a2
+; You're in the Wild West, shooting someone who is pointing a gun at you, even if they don't intend to use it, is not such a big offense. It's not an offense at all. The Bad throws his revolvers on the ground. Moreover, he raises his hands and turns his back to you. What? Does he really want you to shoot a defenseless person in the back? That is something you would never do. Never. Who does he think he is?
+
+# 3e088954
+; @choice "You do it." goto:.You_do_it.
+
+# c2e0c58c
+; For a split second you are so angry that you stop thinking and pull the trigger. You hit him in the middle of the head. He falls to the ground seriously wounded. Will he live?
+
+# 713cf029
+; @choice "Possibly." goto:.Possibly.
+
+# b613a396
+; @choice "Of course not." goto:.Of_course_not.
+
+# f01b417d
+; We will see. Right now the doctor is taking care of him. It doesn't look good though. Meanwhile...
+
+# b88f1d2f
+; @choice "The sun..." goto:.The_sun...
+
+# d4d4af82
+; You just saved the world, and in normal circumstances people with such wounds don't end well. Do we finally have these so called normal circumstances? 
+
+# 87b7a47d
+; @choice "So it seems." goto:.The_sun...
+
+# c56c1e6
+; Yup. The sun is finally setting. Overjoyed people run out into the square, dancing and shouting for joy. You stand as you stood. No one pays any attention to you. Typical. The Bad is taken to the hospital. 
+
+# 46f3765e
+; @choice "What now?" goto:.What_now?
+
+# 2c99cc7
+; Now you go to jail. You don't shoot unarmed people in the back just like that. WHAT? The sheriff shows up and puts you in handcuffs. Wait a minute. Sheriff? Where did he come from? Whatever. You have a bigger problem here. And what actually happened here just now, anyway?
+
+# a2058eae
+; @choice "You commited a crime and you go to jail. Simple." goto:.You_commited_a_crime_and_you_go_to_jail._Simple.
+
+# 47a455b
+; @choice "Try to free yourself." goto:.Try_to_free_yourself.
+
+# 12d49637
+; Shouldn't these people be treating you as a hero? You are their hero after all. Well, you've lived long enough to know people everywhere are the same, you might have expected that. But would it have changed anything? Nope. So? Let's finally have some sleep. We'll think about all this tomorrow. 
+
+# c0c55114
+; @choice "You are taken to jail." goto:.Let's_go_there.
+
+# 6ddc091e
+; You think about it, but since you are handcuffed, you know running away is not an option. Besides, you have your pride. Or do you? Chances are you've just lost it, shooting the Bad in the back. That's right. No pride. But still, it wouldn't work, so you don't even try. Maybe at least now you can have some sleep in jail.
+
+# 9eaf3254
+; @choice "Let's go there." goto:.Let's_go_there.
+
+# 8a3b1136
+; The jail looks like a jail again. The homeless have disappeared. Old Joe sits happily with a glass of whiskey, he's already well drunk. Everything is as it should be. The sheriff leads you to a cell, which he locks. This is something new. You've had enough of everything, you want to lie down and go to sleep. It is finally dark and pleasantly cool. Actually, it's not so bad. 
+
+# 75ade01e
+; @choice "You fall asleep." goto:.You_fall_asleep.
+
+# 8f94c02e
+; @choice "You feel warmth on your neck." goto:.You_feel_warmth_on_your_neck.
+
+# 6339e7b9
+; You are ten again. Back in your family home. Your mother is crying, as always. Your frightened siblings hide in the other room.  Your father is eating at the table. Exactly how you remember it. You hate him with all your heart. But, hey! What are you doing? Are you sitting at the table with him? You eat together? Looks like it. He smiles at you, calls you his son. You feel like you're going to throw up. You almost do. 
+
+# d38fe63f
+; @choice "You wake up drenched in sweat." goto:.Open_your_eyes.
+
+# 30248ac1
+; That's the necklace the Indian woman gave you. Weird... Suddenly you sit by the fire with her. Are you hallucinating? Possibly. But, hey, let's not overthink, you are out of jail, enjoy it. So you sit by the fire. Oh, ond here it is, the pipe. You really needed it. It feels good. Inhale. That's right. Again. Here you go. You forget about Gravestone and its people. You forget about the Bad and what he did to you. You forget about what you did. But there is someone to remind you.
+
+# 1b78fd96
+; @choice "Impossible." goto:.Impossible.
+
+# f9e66aaa
+; You see your father. You never saw him like this. He's standing there, smiling. You have mixed feelings.
+
+# 7a64891c
+; @choice "Talk to him." goto:.Talk_to_him.
+
+# 7b570cf5
+; @choice "Make him disappear." goto:.Make_him_disappear.
+
+# 877e0cfb
+; He tells you that he has forgiven you for killing him. What a nice chat between father and son, heh? He also says that after what you did, for the first time in his life he is really proud of you and he can finally call you his son. Great, that's just what you wanted. That's enough, you don't want to hear it anymore, you feel bad enough already.
+
+# ebed5233
+; @choice "He vanishes into thin air." goto:.Make_him_disappear.
+
+# 2a98265d
+; He's gone. But who's that? No. Can't be. Your wife and son. You are filled with joy to see them. But they don't seem to be as happy. You want to hug them, but with every step you take toward them, they take a step back. Your wife says nothing. She looks at you with a look of disappointment on her face. Your son hides behind her as if he is afraid of you. It's really painful. And you know it's your fault. You are no longer the man who was her husband and his father. You have become a stranger to them. They don't recognize you. You don't recognize yourself. You begin to regret what you have done. You're really sorry. You wish it hadn't all happened.
+
+# 54743db8
+; @choice "Open your eyes." goto:.Open_your_eyes.
+
+# ba37770e
+; You're back in the cell. Feeling terrible. You are consumed with remorse. How could you shoot an unarmed man? How could you shoot him in the back? That's not who you are. Or is it? You have broken the promise you made to yourself and you are being punished for it. You will end up like your father. In hell. That's for sure. Although you never do, you begin to pray. You ask God to turn back time so you can somehow make it all right. Knowing what would happen, you would never come to this town in the first place.
+
+# 9887f5d1
+; @choice "Meanwhile_in_town..." goto:.Meanwhile_in_town...
+
+# d9dd8efe
+; @choice "You hear the door open." goto:.You_hear_the_door_open.
+
+# 3587cad1
+; People are celebrating. They are dancing, drinking and finally are able to get drunk, really drunk. Old Joe is beyond happy. He drinks a bottle of the finest whiskey he can find and falls into a coma with a big smile on his ugly face. Just like old times. Some guys can't help themselves and start a fight, they've been good and nice for too long. They need violence, they need blood. And sure enough, they get what they want. The guy who was jumping from the clock tower trying to kill himself no longer jumps, but the injuries he sustained are too serious. He dies. Also the animals that served as shooting targets fall dead. There is a carnival atmosphere in the town. 
+
+# 776a305d
+; @choice "The night is nice and cool." goto:.The_night_is_nice_and_cool.
+
+# d9dd8efe
+; @choice "You hear the door open." goto:.You_hear_the_door_open.
+
+# c098aa52
+; For the first time in a very long time, a pleasant, cool wind is blowing. It is getting cloudy. Lightning flashes in the distance, thunder rolls through the sky. It begins to rain. People are dancing in the rain like madmen. Nobody remembers it is all thanks to you, your sacrifice. Were you expecting to be treated this way? Deep inside you were, but you were hoping this time it would be different. It's not and you were stupid. Admit it. 
+
+# 4ad521c6
+; @choice "In the old cabin..." goto:.In_the_old_cabin...
+
+# d9dd8efe
+; @choice "You hear the door open." goto:.You_hear_the_door_open.
+
+# 9c9baa92
+; The old man, who has been unable to die for so long, feels that the end is approaching. You can see a great relief on his face. His breathing becomes regular, but increasingly shallow. He looks out the window, smiling at the sight of the dark stormy sky. The woman who cares for him hands him a cup of water, but he refuses. He closes his eyes. His suffering has come to an end. 
+
+# d9dd8efe
+; @choice "You hear the door open." goto:.You_hear_the_door_open.
+
+# 2de895fc
+; A crowd of angry people rushes into the jail. Luckily for you, you're locked in your cell. You don't know what's going on. And they're just standing there, looking at you infuriated. You look out the window. It can't be. The sun is coming up again, even though it's only around 2 a.m.  You realize what you have done. Yup, it's your fault. Your stupid deliberations. Your remorse. You ruined everything. Again.
+
+# 32f8301d
+; @choice "The people though..." goto:.The_people_though...
+
+# a8e0692a
+; They are getting pretty agressive. They throw insults, some take out revolvers. Yeah, try it, assholes. You recall the wrongs you have suffered from people.
+
+# dc563a3a
+; @choice "Yeah, let's think about them." goto:.Yeah,_let's_think_about_them.
+
+# a113480c
+; @choice "You are actually glad it turned this way." goto:.You_are_actually_glad_it_turned_this_way.
+
+# 47dd280a
+; It starts with your father, that sick son of a bitch. Then the people who killed your wife and son. And the ones, who tried to hang you for something you didn't do, just because you were in the wrong place at the wrong time.  Fortunately, you took good care of them. They won't hang anybody anymore. People. The biggest plague of this planet. You've had enough. It's time to end this farce. You notice that one of the man is in your reach.
+
+# 2da7a18
+; @choice "It's now or never." goto:.Again,_you_act_like_a_machine.
+
+# d73a8b82
+; These people don't deserve to be helped. You tried to help and this is how they thank you? You hope they will suffer forever. You really do. Now you are sure you did the wrong thing. And you feel even worse. Suddenly, one man makes a big mistake, he comes a little too close to the bars of your cell. And you are fast. Very fast. 
+
+# abc3a920
+; @choice "Again, you act like a machine." goto:.Again,_you_act_like_a_machine.
+
+# 7859fc5b
+; Without thinking you throw yourself in his direction, take away his weapon and start shooting at people. They try to run outside, screaming. But it's not their lucky day, oh no. It feels so good, doesn't it? There are wounded, and there are... dead. Wait a minute. Did you just...? Yup, you saved the world. Well, Garvestone. Again. Except that this time, you don't want it do be saved. What if... ?
+
+# 403493b2
+; @choice "You put the gun to your head." goto:.You_put_the_gun_to_your_head.
+
+# 73760c0d
+; People freeze in horror. This is something they did not expect. But they are well aware of the consequences if you pull the trigger. A world that just seems to be getting back on track will once again fall into chaos. And so far, you are the only person who can prevent it by doing what you just did. You are savoring the moment. You can almost smell their fear in the air. That's a good day to die.
+
+# 3a6cd77d
+; @choice "You pull the trigger." goto:.You_pull_the_trigger.
+
+# ccd6127
+; @choice "Like any other." goto:.Like_any_other.
+
+# 56ae9815
+; That's what you call revenge! Bravo. As a ghost, you watch everything with satisfaction. People panic, knowing full well what awaits them. You don't care anymore. You go to the old cemetery to smoke a pipe with the Indians. Your wife and son are already there waiting for you. You will live together in a small house (actually it is a grave, sorry) and make life miserable for the townspeople. They deserved it. 
+
+# 73d49b44
+; < tutaj znowu możliwość wyboru jednej z alternatywnych historii >
+
+# 13ec3f23
+; You might as well have a little fun whith these clowns first. You point your revolver at one of the suckers, tell him to open your cell, which he obediently does. You are free. Moreover, you are untouchable. Even such idiots know that their relatively normal life now depends on you. They depend on you. And you are going to make good use of this situation.
+
+# 374630f7
+; @choice "You can finally get drunk. Do it." goto:.You_can_finally_get_drunk._Do_it.
+
+# a7d52ee8
+; @choice "Get yourself a house." goto:.Get_yourself_a_house.
+
+# f5d1b399
+; You go to the saloon. You demand the best whiskey and of course you're not going to pay. You tell the Chinese to hunt something down and prepare you a nice breakfast. You are hungry, as you always are after work. It was a long day. Way too long. It's time to relax and get some rest. 
+
+# 8e9d503b
+; @choice "But who's that coming in?" goto:.But_who's_that_coming_in?
+
+# 4b9ec65a
+; The beautiful widow. She smiles, comes to your table, sits on your lap and pours you a glass of whiskey. So it's true what they say? That women like bad boys? So it seems. That's good, cause you have plans of being very, very bad. You ask where she would like to live. She tells you that there is a family who treated her very badly and that they happen to have a beautiful house near the forest.
+
+# ed8194ba
+; @choice "Say no more, darlin." goto:.Get_yourself_a_house.
+
+# b9ba860c
+; @choice "Have your breakfast first and then go and drive that wicked family out of their beautiful home." goto:.Have_your_breakfast_first_and_then_go_and_drive_that_wicked_family_out_of_their_beautiful_home.
+
+# d1d95895
+; The cook did his best. Eggs on bacon with fresh bread, just what you needed. But when and how did he make all this? Hm? Never mind. You're enjoying breakfast with your sweetheart. People are starting to come in. The saloon soon fills up. Cigarette smoke is in the air, and whiskey is pouring in streams. It is exactly as it should be. They owe it to you, remember. And make them remember too. Now get to work. Take care of your woman. 
+
+# e267aee4
+; @choice "Get her the dream house." goto:.Get_yourself_a_house.
+
+# 23658918
+; You go to see the forest house. It's nice. Quite big too. That's good cause you'll need space for three people. And some children of your own. Or how about two people? Maybe you could get rid of the widow's son?
+
+# 4bcba85
+; @choice "Yeah, I'll get rid of him." goto:.Yeah,_I'll_get_rid_of_him.
+
+# 5094fd63
+; @choice "We'll see how things go." goto:.We'll_see_how_things_go.
+
+# 199e0fc5
+; Later. First things first. So you take your revolvers and go pay a visit.
+
+# ae4a98cb
+; @choice "Pay a visit." goto:.Definitely_yes.
+
+# 60883ed1
+; Now, however, let's finally get this house. Shall we?
+
+# 4a890605
+; @choice "Definitely yes." goto:.Definitely_yes.
+
+# 35edf0ae
+; You approach the house. You look good. You are dressed all in black. The now exposed hanging scar on your neck adds to your character. Classy. But, wait a moment. What about the horse? It's white. Yeah, what to do. You look weird together, true, but that's your horse, you wouldn't change it for any other. They'll just have to get used to it. A new trend, if you will.
+
+# 4f0d3a5
+; @choice "Get rid of the family." goto:.Get_rid_of_the_family.
+
+# bbfa7f8c
+; They see you from the distance. Wife, husband and two children hurriedly enter the house. But they won't hide from you. You stand on the porch. You gently knock on the door. And again, this time not so gently. No one opens. So you open it yourself, with a kick. Here they are. Terrified, they huddle together standing by the wall, the children crying. It doesn't move you at all. You give them ten minutes to take their belongings and get out of your house.
+
+# f0f7f6e3
+; @choice "Ten? Let's make it five." goto:.Ten?_Let's_make_it_five.
+
+# afc5fd1d
+; They beg you not to take away their entire life's possessions, but you have to live somewhere, right? Besides, you've heard that they've been disrespectful to your woman. Your two revolvers help you convince them to hurry up. A moment later they are gone. You have the whole house to yourself.
+
+# 50d000a4
+; @choice "Being a bandit has worn you out a lot. You need a nap." goto:.Being_a_bandit_has_worn_you_out_a_lot._You_need_a_nap.
+
+# 51d9021a
+; @choice "You feel a great surge of energy. You need to talk about philosophy. Now." goto:.You_feel_a_great_surge_of_energy._You_need_to_talk_about_philosophy._Now.
+
+# ccbf3337
+; You don't know how long you slept. When you wake up, the beautiful widow is already waiting for you. She's sitting by your bed with a glass of whiskey in her lovely hands. When you look at her like that, you feel like robbing a bank or a stagecoach. Or shooting some peasants. Yeah, you get the vibe. It looks like it's going to be a beautiful day. 
+
+# 6f9ec690
+; @choice "THE END." goto:.THE_END.
+
+# cf57f092
+; And who is that standing in the doorway holding a new edition of Plato's Dialogues? Is this woman reading your mind? Possible. But this is not the time to ponder. You have some philosophizing to do. And then you live happily ever after, wreaking havoc on the town. Just how it should be. And exactly what you were made for. 
+
+# 6f9ec690
+; @choice "THE END." goto:.THE_END.
+
+# ae9025c4
+; That's it. The end.

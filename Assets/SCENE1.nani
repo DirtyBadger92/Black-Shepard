@@ -1,0 +1,5 @@
+#TEST
+To jest scena napisana w Naninovel. Button poniżej przekieruje nas do SCENY z Unity.
+@hidePrinter
+@choice  button:Buttons/SCENE1/andwhoami pos:-700,-100 handler:ButtonArea
+@stop

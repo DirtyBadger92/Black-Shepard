@@ -1,0 +1,238 @@
+; English <en> to Chinese <zh> localization document for `SCENE7` naninovel script
+
+# ebefdb02
+; People in town look as if they were waiting for you. They smile. But there is something strange in these smiles. You enter the jail. The priest, Old Joe and some homeless guys are still there. They smile. You wanna punch these smiling faces. You demand explanation.
+
+# 189e6f0
+; @choice "But first, whiskey." goto:.But_first,_whiskey.
+
+# 96f1622b
+; @choice "Demand explanation now." goto:.Demand_explanation_now.
+
+# e2e56b80
+; You take a sip and remember it's fake. But at least it's wet and cool. You are fine with that. You dream of a nap in one of the cozy cells but the priest calls ypu outside. He tells you to go with him. 
+
+# 2bf5a0f2
+; @choice "You walk in silence." goto:.You_walk_in_silence.
+
+# 29293e4e
+; Nobody is surprised. They know why you came back. You don't. The priest takes his hat and tells you to go with him. You are happy to do so, hoping to find out what is going on.
+
+# 2bf5a0f2
+; @choice "You walk in silence." goto:.You_walk_in_silence.
+
+# faaae49e
+; Behind your back you hear the guy falling from the clock tower. You don't pay attenction to it anymore. You don't care. Children are playing on the gallows. People are hiding in the shade. Everything is exactly as it was when you came here. You curse this moment. 
+
+# 236f07ce
+; @choice "Curse the moment." goto:.Curse_the_moment.
+
+# ff089c73
+; @choice "Continue your walk." goto:.Continue_your_walk.
+
+# 5c961837
+; Think of a lot of dirty, dirty words. Good. Now use them all. But quietly, you don't want the priest to think badly about you. That's right. Feel better? 
+
+# aa88a711
+; @choice "Hardly." goto:.Continue_your_walk.
+
+# a5333a03
+; @choice "Yeah, it always helps." goto:.Continue_your_walk.
+
+# 3e3b9a84
+; You walk out of town. Oh no. You know this house. And there she is, the beautiful widow. You look the other way, but she notices you and shouts "hello". You wave at her and even smile a little, but deep down you want to disappear. Her annoying son runs after you. She calls him for dinner. You are saved. Thank you, beautiful lady.
+
+# ccc46f7f
+; @choice "You approach a small hut." goto:.You_approach_a_small_hut.
+
+# 22c0e8bb
+; The priest asks you if you ever dreamed that death would disappear from the world. You think of your wife and son. Of course you did. Many times. As we all do, right? You enter a cramped, stuffy room. On the bed there is an old man, who seems very ill and in great pain. A middle-aged woman wipes his forehead with a damp cloth to soothe his pain a little. She tries to smile at the sight of the priest, but you can see that it comes with great effort. There is disappointment and despair in her eyes. She doesn't even look at you. You feel like an intruder. 
+
+# 522e8d9a
+; @choice "Go outside." goto:.Go_outside.
+
+# 93bba327
+; @choice "Stay at the door." goto:.Stay_at_the_door.
+
+# 98b8a5b4
+; You sit at the porch. The heat is still unearable. You fan yourself with your white hat. Which is not so white anymore. The rest of your clothes are visibly dirty as well. A few lame dogs walk by. After some time the priest comes out. You ask him who this man is and why you came here.
+
+# 63969baf
+; @choice "So?" goto:.Maybe_some_explanation?
+
+# eb6ac074
+; The priest sits down on the bed. He brings his face closer to the old man's. They talk quietly. You can see that every word causes the old man great pain. The priest makes the sign of the cross on his forehead. He says goodbye to the woman. You go out. You don't understand why you came here.
+
+# 516e1449
+; @choice "Maybe some explanation?" goto:.Maybe_some_explanation?
+
+# a282eb00
+; The priest looks at you, sighs heavily. He knows what he says will sound strange. You are prepared for strange stories, you've seen enough. He starts talking. You walk slowny towards the town. It's hot. You must be hallucinating. Or he is delusional. Or both. It turns out you were actually not prepared for that.
+
+# 97077804
+; @choice "For what, for God's sake?" goto:.For_what,_for_God's_sake?
+
+# 4d69b429
+; Well. He tells you that Gravestone used to be a normal town, full of all types of bandits, gunslingers, bank robbers, gamblers, prostitutes, you know, just a fun place to live in. People got drunk, killed themselves in gunfights, sometimes they simply died of drinking. Or of tuberculosis. The sheriff and his deputies had their hands full. The city jail was bustling with life. The funeral business also flourished. But one day there was an accident near the Indian cemetery. A real misfortune. The Bad...
+
+# 5ac0728f
+; @choice "Oh, wait. Who?" goto:.Oh,_wait._Who?
+
+# eea4d952
+; @choice "Interesting. Go on." goto:.Interesting._Go_on.
+
+# 86b1d6b8
+; That's right, the Bad. Isn't that funny? The Good and the Bad? The guy is so bad, well, was, but wait for it, so he's so bad that everybody calls him "the Bad". No one remembers his name. What a coincidence. 
+
+# 50f76fcb
+; @choice "What's his story?" goto:.What's_his_story?
+
+# e1cfecec
+; @choice "What about this accident?" goto:.Interesting._Go_on.
+
+# b3b4e614
+; The Bad's father was a cowardly farmer, he couldn't stand up to the bandits who terrorized him by taking almost all the money and food supplies. The family (mother and younger siblings) lived on the verge of poverty. When the father finally found the courage and hid a sack of grain from the bandits, they killed him in front of his wife and children. The Bad became the head of the family. He was angry with the whole world. He promised himself never to be like his father. 
+
+# b41cfef6
+; @choice "And" goto:.And?
+
+# e1cfecec
+; @choice "What about this accident?" goto:.Interesting._Go_on.
+
+# c0ecd336
+; In order to provide a decent life for his mother and siblings, the Bad became a bandit himself, he founded a gang that he successfully led. Every now and then he came home to bring money. When the mother died and the siblings grew up, he had enough of wandering. He settled on the outskirts of the town. His gang terrorized the townspeople, they robed and raped. The sheriff couldn't handle them, but there was nothing he could do. 
+
+# cb914eb6
+; @choice "But then the accident happened." goto:.Interesting._Go_on.
+
+# b1f85a02
+; @choice "How does he look?" goto:.How_does_he_look?
+
+# 14c30f2d
+; Interestingly, he looks pretty much like you. You could be brothers. The only real difference is that he dresses all in black. Stylish. His horse, as you can imagine, is also black. 
+
+# 9cd039c
+; @choice "Great, what about the accident?" goto:.Interesting._Go_on.
+
+# 60a0f19
+; The Bad, drunk as always, was riding his horse cross the Indian cemetery. He knew very well that this is the sacred land of the Indians and that you should not go there. Besides, there are terrifying stories about this place. Nobody in their right mind will go there alone. But he was in a hurry. Suddenly, his horse got scared and threw him off. As he fell, he hit his head against a rock. He had visions. The Mother of God appeared. She told him to stop being evil. The Bad, out of shock and in deep fear of eternal damnation, converted.
+
+# 95f48bdd
+; @choice "Good for him." goto:.Good_for_him.
+
+# d9bb331f
+; @choice "You should be happy, no?" goto:.Good_for_him.
+
+# 3812152f
+; The problem is that something strange has happened. All evil disappeared from the world.
+
+# e8006079
+; @choice "Oh wait, isn't that fantastic?" goto:.Oh_wait,_isn't_that_fantastic?
+
+# 129e62ce
+; The priest explains to you that although it might seem so, in reality nothing could be further from the truth. He tells you that the old man that you just visited cannot die, because death has disappeared. People, animals, everything stopped dying. Remember the cow? Or the guy on the clock tower? Endless life is unbearable, meaningless. Plus, that is also why there is nothing to eat.
+
+# 37819be9
+; @choice "What about the sun?" goto:.What_about_the_sun?
+
+# d3d40981
+; That too. No darkness, no night. People cannot sleeep, they go crazy. You can easily understand that. Listening to the priest, you feel like you are going mad yourself. Oh, and you can no longer get drunk, the alcohol lost all it's power. Yeah, you've noticed that. Well, it seems that this "perfect world" isn't so perfect after all. In fact, it's rather hellish. And very, very chaotic. Interesting. People usually don't want to die, but when you think about it...
+
+# 6a62161a
+; @choice "Think about it." goto:.Think_about_it.
+
+# 743b92df
+; @choice "Too much thinking is not good." goto:.Too_much_thinking_is_not_good.
+
+# 72d52aea
+; Imagine that your life will never end. That you have all the time you need to do all the things you dream about. And imagine that you actually do them all, that you fulfill all your dreams. And then what? You have no more dreams, no more desires, no more purpose. Your life loses meaning because you have nothing to strive for. And you have eternity ahead of you. An endless life of meaninglessness. And there is only one thing that can save you from this, a thing that is not available to you. Death. Then isn't death the best thing that ever happened to man? Isn't it the thing that makes our life meaningful, that makes us want to live? 
+
+# 1d305594
+; @choice "Sounds reasonable." goto:.Sounds_reasonable.
+
+# cf8ee0cf
+; @choice "Doesn't it mean that the bandits are actually good?" goto:.Doesn't_it_mean_that_the_bandits_are_actually_good?
+
+# 37384c8e
+; OK, great, it is. But maybe that's enough philosophizing, huh? We have a problem, remember? 
+
+# b1de47dd
+; @choice "I remember. Let's solve it." goto:.Too_much_thinking_is_not_good.
+
+# f2a5da9a
+; You don't wanna go there. At least not yet. 
+
+# b42a3676
+; @choice "OK, let's find a way out of this situation." goto:.Too_much_thinking_is_not_good.
+
+# cf459dd2
+; It's time to leave this place. You ask the priest for the way. You tell him you had some problems before.
+
+# 439afbe7
+; @choice "No wonder you did." goto:.No_wonder_you_did.
+
+# aa937fb9
+; The priest says something that you don't want to hear, but that you have intuited for some time. There is no escape from this place. You can enter, but not leave. That's why you wandered around like an idiot.
+
+# 8edcfd98
+; @choice "No way. No. Just no." goto:.No_way._No._Just_no.
+
+# a045944a
+; @choice "What now? There must be a way." goto:.What_now?_There_must_be_a_way.
+
+# 2291ab5a
+; You're not accepting that.You want to leave this madhouse and forget all about it as soon as possible. You cling to the hope that you've been poisoned. Or that you'll wake up tomorrow under some tree in the desert with a heat stroke. You dream of a stroke. 
+
+# 776dcdba
+; @choice "Was I poisoned? Please." goto:.Was_I_poisoned?_Please.
+
+# 29a02b2d
+; @choice "Is that a stroke?" goto:.Is_that_a_stroke?
+
+# 68f219d2
+; Sorry. No. 
+
+# eaa47b69
+; @choice "So? What now?" goto:.What_now?_There_must_be_a_way.
+
+# 949109ce
+; Forget about it. 
+
+# f89514c9
+; @choice "OK. So now what?" goto:.What_now?_There_must_be_a_way.
+
+# aef39b9f
+; The only way is to restore order to the world. And to do that you have to make evil return to it. The priest explains to you that the townspeople have lost their ability to do evil and only an outsider can do this. In a word, you are their only hope. And yours, if you want to leave this town. And you do. Very much so. But there's a problem. You're good. You are the Good. You don't do evil. You fight it. And by the way, how does the priest know all this? Maybe it's just his theory? Maybe there is some other way out?
+
+# 51888405
+; @choice "Is there?" goto:.Is_there?
+
+# 4df02f6b
+; @choice "How does he know it?" goto:.How_does_he_know_it?
+
+# a2a5571d
+; No.
+
+# 4df02f6b
+; @choice "How does he know it?" goto:.How_does_he_know_it?
+
+# e5876f4
+; You ask him how can he be so sure that this is the only way. He tells you that they've already tried everything. The townspeople are not physically capable of committing the slightest evil deed. Even if they wanted to, and they tried, some force keeps them from doing so. A real physical force. Visitors are a different matter. There are a few of them here. They were just passing through, but they got stuck. They wanted to get out, so they tried to fix the situation, and they even did well at first, the world went back to normal here and there, but when it came time for the real crime, they weren't able to commit it. You're different. You have blood on your hands. You killed without hesitation. 
+
+# 68a23ef6
+; @choice "Explain to the priest the nature of your profession." goto:.Explain_to_the_priest_the_nature_of_your_profession.
+
+# f95ff64a
+; @choice "What about the Bad? Maybe he can be convinced to stop fooling around?" goto:.What_about_the_Bad?_Maybe_he_can_be_convinced_to_stop_fooling_around?
+
+# dc788df8
+; You tell him that you do have blood on your hands, but it's never the blood of innocent people. On the contrary, it'a always the blood of the worst bandits the Earth has ever known. And you are here to fight them, not to become one of them.
+
+# f95ff64a
+; @choice "What about the Bad? Maybe he can be convinced to stop fooling around?" goto:.What_about_the_Bad?_Maybe_he_can_be_convinced_to_stop_fooling_around?
+
+# cd1d759b
+; The priest tells you he believes that theoretically it could be done. Since it started with him, it should be possible to end it this way too. Theoretically. They tried everything to persuade him to return to his old job, but to no avail. Now he sits for days in his hermitage outside of town, praying, fasting, and mortifying his body. He went crazy. Literally. It doesn't look good, but you see a glimmer of hope.
+
+# 6b7fded2
+; @choice "You agree to help." goto:SCENE8.You_agree_to_help.

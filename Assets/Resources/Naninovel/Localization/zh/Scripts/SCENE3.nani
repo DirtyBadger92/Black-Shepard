@@ -1,0 +1,82 @@
+; English <en> to Chinese <zh> localization document for `SCENE3` naninovel script
+
+# 3299830c
+; ... it's still extremely hot. The sun is high. You feel more and more dizzy. Is it possible that they have poisoned you? Hey, this is the Wild West, anything is possible here. Plus, Gravestone. Shit. Yeah, that's right, shit. Or maybe, just maybe, you drank too much on an empty stomach. You look around. It's not a regular town. It feels strange. But what is so strange about it?
+
+# 9af42252
+; @choice "Let's find out." goto:.Let's_find_out.
+
+# e1320e35
+; You take a walk around the town with the priest. It's very quiet. Most of the people hide in the shade, some are sitting in the sun talking to themselves, children are still playing on the gallows. Suddenly! A men falls from the clock tower crushing to the ground. His arms and legs are broken, in many places, his head is almost breaking to pieces, his face, well, used to be a face. There's a lot of blood everywhere. And yet, nobody seems to care. They saw him falling, but showed no reaction. What a bunch of sickos.
+
+# a1ce78b3
+; @choice "THEN!" goto:.THEN!
+
+# 2e8e1ef7
+; The dead guy starts moving. He gets up and, although with some difficulties, since his body is falling apart, is walking back towards the clock tower. Yeah, now you are sure, you've been poisoned. But why? For what? Some old friends maybe? The sun. The sun starts getting on your nerves already. Shouldn't it be setting by now?
+
+# 3ffb8fc4
+; @choice "Shouldn't it?" goto:.Shouldn't_it?
+
+# 33a8aa07
+; @choice "Continue the stroll." goto:.Continue_the_stroll.
+
+# 6f0a9d48
+; Yes. Yes, it should. 
+
+# 33a8aa07
+; @choice "Continue the stroll." goto:.Continue_the_stroll.
+
+# e18c2051
+; The priest is telling you some stories, but all you can think of is your coming death. You don't wanna die. But on the other hand, maybe you would meet your family again. You think about them, remembering happy times together. Then you suddenly stop. What the hell is that? 
+
+# 82ff059d
+; @choice "A cow?" goto:.A_cow?
+
+# 581aa111
+; It sure looks like a cow. But why is it covered with bullet holes? You ask the priest and he tells you that shooting animals is local people's hobby. Yeah, great, but why this cow is still alive? The priest shrugs his shoulders. You remember that you most probably have been poisoned and stop wondering at anything. Well, since you're already dead, let's maybe have some fun with the cow, shall we?
+
+# 74850384
+; @choice "No, thanks, let's leave the cow." goto:.No,_thanks,_let's_leave_the_cow.
+
+# d7d462bc
+; @choice "Hell, yeah!" goto:.Hell,_yeah!
+
+# f90ab8d7
+; You take out your gun and aim at the cow. You shoot. The bullet hits the cow right between the eyes. The cow falls to the ground, but not long after it stands up and starts nibbling on the grass. That is sooooo cooool!
+
+# 4c5acb90
+; @choice "Shoot it again!" goto:.Shoot_it_again!
+
+# 7d467fd2
+; @choice "Killing animals for fun is not my thing though." goto:.No,_thanks,_let's_leave_the_cow.
+
+# e4139508
+; You shoot again. This time you hit the eye, but the cow doesn't even wobble. That's so much fun, isn't it? No. No, it's not. Let's leave the cow, huh?
+
+# 14499f8a
+; @choice "OK. Let's go." goto:.No,_thanks,_let's_leave_the_cow.
+
+# 9fcfd0cc
+; @choice "One more!" goto:.One_more!
+
+# ef88bb99
+; Whoa! Aren't you forgetting yourself a bit here mister? Do you remember what they call you? The Good? That's right. Remember why? Because you are good. GOOD. Exactly. This is the Wild West, true, but torturing animals is not good either way. Are we on the same page? Wonderful. Is it enough then?
+
+# c80f4a77
+; @choice "Yeah, enough." goto:.No,_thanks,_let's_leave_the_cow.
+
+# 8c1c9b07
+; This situation is somehow emotionally draining. You need a rest. Or a place to die in peace. Whatever. You need some shade and a glass of water. You ask the priest about the hotel, but he tells you that the best place to have a nap is the city jail. It just so happens to be empty and the thick walls keep it nice and cool inside. Does it sound like a good idea?
+
+# 3cd80e1b
+; @choice "Not really, but what the hell." goto:.Not_really,_but_what_the_hell.
+
+# 5cd7b053
+; @choice "Sounds wonderful!" goto:.Not_really,_but_what_the_hell.
+
+# 16af4bff
+; You walk back to town. You are apparently experiencing halucinations. You see more of these half dead animals and some people trying to commit suicide. With no success. A lady trying to drown herself in the river over and over again. Her husband shooting himself in the head with a gun. Where is his brain, you may ask. Well, that's a very good question. Gone.
+
+# bbad90b9
+; @choice "Ah, Gravestone! Finally." goto:SCENE4.Ah,_Gravestone!_Finally.

@@ -1,0 +1,64 @@
+; English <en> to Chinese <zh> localization document for `SCENE6` naninovel script
+
+# 27114ba9
+; You get on your horse and ride away. You pull your cowboy hat over your eyes. You don't want to look at this town anymore. And these crazy people. From the distance you can hear the guy falling from the clock tower. That's right. Have fun, looser. You are tired. You want to eat something and take a nap. You lost enough time here. When you pass a small house outside the town, a little boy runs after you. He is clearly an annoying child.
+
+# 233b386
+; @choice "Ride faster." goto:.Ride_faster.
+
+# 29a6ee93
+; @choice "Turn around and look at the boy." goto:.Turn_around_and_look_at_the_boy.
+
+# c10168fe
+; The boy shouts something. You want nothing to do with this place anymore, so you ignore him. But then you hear a woman's voice and you make a mistake. You turn back. And you see her. That's right. The beautiful widow. The boy's mother. She calls after her son, but she notices you and forgets about him. She's already in love. Typical. You hesitate, but you make another mistake and you stop to talk to her. The boy is jerking your horse by the tail, so you kick him lightly. It works.
+
+# 3321f49
+; @choice "Let's talk to the lady." goto:.Let's_talk_to_the_lady.
+
+# b1d63680
+; You regret it immediately. Here she is. His mother. The beautiful widow. You approach the lady. You try to be as charming as only you can be. Which is useless, cause she already loves you anyway.
+
+# d91b5510
+; @choice "Let's have a chat, shall we?" goto:.Let's_talk_to_the_lady.
+
+# e292df41
+; You say something about the weather. She says something about the weather. Yeah, the weaher. Beautiful, indeed. 
+
+# 6ce6a37e
+; @choice "Who is this woman?" goto:.Who_is_this_woman?
+
+# 2a3ee372
+; @choice "She invites you for a coffee. You accept." goto:.She_invites_you_for_a_coffee._You_accept.
+
+# 316fc346
+; Oh, you know, just another beautiful widow with an annoying child, who needs a hero. And you happen to be a hero, right? Of course you are. Her husband was killed by local bandits and now she is terrorized by them, fearing for her and her child's life. It's a very touching story, you've heard it a hundred times. She offers you a cup of coffee.
+
+# a002c521
+; @choice "What a lovely offer." goto:.She_invites_you_for_a_coffee._You_accept.
+
+# a2bf5093
+; You drink the coffee outside. You wish for something to eat, but the beautiful widow is apparently no the best housewife. The boy is playing with your horse. The horse, not too happy about it, trying to kick him. It manages to kick him in the head, and the boy runs aways crying. Silence, finally. The widow smiles at you. You know what she wants. Not this time, honey. You thank her for the drink, say goodbye, and leave. Leave while you still can.
+
+# 78585eeb
+; @choice "I still can. Go!" goto:.I_still_can._Go!
+
+# 9dd65005
+; You ride away, but after just a few minutes you are in front of her house again. Whaaaat? Did she put something in this coffee? Or is it that hot? It's hard to believe, but yes, you got lost, on a straight road. The beautiful widow is still in front of her house. She doesn't seem surprised seeing you. She smiles. You feel like an idiot. You smile too. You wanna think of some excuse, but you simply ride the opposite way this time. The boy runs after you.
+
+# 7d6db18e
+; @choice "No way!" goto:.No_way!
+
+# 65c482f5
+; How can this be? Once again, you are in exactly the same place. She smiles again. You feel like a complete idiot. Again. Oh, and the child. You are getting a little desperate. There is no other way to go. Left or right. You tried both directions. 
+
+# 875fb479
+; @choice "Try again." goto:.Try_again.
+
+# 109619ae
+; @choice "Go back to town." goto:SCENE7.Go_back_to_town.
+
+# 1787d42a
+; You ride left. And! No. Just no. It must be the heat. She smiles. That's enough. You need some information. Or a map. Or both.
+
+# 109619ae
+; @choice "Go back to town." goto:SCENE7.Go_back_to_town.

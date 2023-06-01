@@ -1,0 +1,262 @@
+; English <en> to Chinese <zh> localization document for `SCENE5` naninovel script
+
+# c2d7de96
+; They tell you they need you to do something bad, something evil, some kind of crime. They trow a sack of money in front of you. You remember that you've been poisoned. You refuse politely. It's not your job, you are the good guy, you fight the crime. That's right. You tell them that you'll get some sleep and will leave first thing in the morning. It's still bright outside, even though it should be the middle of the night by now. You pull your hat over your face and fall into a restless nap.
+
+# 7d6ec05b
+; @choice "Will you wake up?" goto:.Will_you_wake_up?
+
+# 81571071
+; Surprisingly, yes. You woke up. You are happy to be alive and more than eager to get the hell out of here as soon as possible. You try to make sense of everything that happened yesterday. You can't. Oh, well. Beside the bunk there are already three pouches full of gold. There is a crowd of people in the prison too. They look at you in silence. You look at them. It's getting uncomfortable. Is it possible that you are still hallucinating, that they have actually poisoned you? 
+
+# 351d51ac
+; @choice "Is it?" goto:.Is_it_?
+
+# e87623a
+; Of course it is. But that's not the case. For some reason they really want you to commit some kind of crime and they are willing to pay well for it. Do you need to know more?
+
+# 81d3b93c
+; @choice "Yeah, I'd like to know more?" goto:.Yeah,_I'd_like_to_know_more?
+
+# bc39feef
+; @choice "Not really. I'm good." goto:.Not_really._I'm_good.
+
+# d993df39
+; You ask, but they tell you not to ask. Interesting. Are they all mad? That's very possible. Is it a trick? Do they want to set you up? I guess we'll find out.
+
+# 822c7fd6
+; @choice "Second thoughts." goto:.Second_thoughts.
+
+# 57b28734
+; Are we sure it's a good idea? Hell, no. Are we still gonna do it? For the money? Loads of money.
+
+# 2e52d9c8
+; @choice "Guess so." goto:.Not_really._I'm_good.
+
+# 147ca0c9
+; You know it's a bad idea. First of all, this whole situation is strange. Second, this place is strange beyond words. The people... God, the people, a bunch of weirdos. Besides, you promised something to yourself a long time ago. Never to be like your father. Remember? You are the good guy. You are the Good. But on the other hand, that's a lot of gold. You commit some petty crime and you are gone. If you hurt no one... Dammit!
+
+# 5f7523e
+; @choice "You agree to a stagecoach robbery." goto:.You_agree_to_a_stagecoach_robbery.
+
+# 54eb3864
+; @choice "You think that a kidnapping would do." goto:.You_think_that_a_kidnapping_would_do.
+
+# 913e044b
+; No dead bodies though. Just robbery. People are fine with no corpses. You are too. You remember that you haven't eaten for a long time. Going to work on an empty stomach does not bode well. You ask for something to eat, but apparently there is nothing in the whole town. What? You notice with surprise that you are not even hungry anymore. OK, whatever, let's get it over with and get the hell out of this madhouse.
+
+# d2176e1
+; @choice "Get ready for the job" goto:.Get_ready_for_the_job
+
+# 3d25b583
+; You collect some useful accesories from the nearby shop. You need bags for stolen goods, ropes for binding victims, some more ammo, just in case, you never know. Anything else? You're not quite sure, you are not used to leaving people alive after the job is done. Maybe some water for the people? It's possible that they are gonna sit in the scorching sun after you drop them somewhere in the desert. Oh, wait. Thtat's not how it should be done, right? Let's be professional here. No water then. But you do need a drink.
+
+# 8d1e779d
+; @choice "Or not." goto:.Or_not.
+
+# e5a04048
+; @choice "Go to the saloon." goto:.Go_to_the_saloon.
+
+# c53b1e25
+; Maybe it's better not to get drunk first thing in the morning? At least not before work. I'll grab a beer later.
+
+# a0b9ac53
+; @choice "Go out." goto:.Go_out.
+
+# fbf45d46
+; You walk in. People stop talking. They look at you. It feels weird. Something suspicious is goin on here, that's for sure. You sit. You get your beer. You are extremly thirsty. You ask for another, but the Chinese brings you a bottle of finest whiskey. That's very nice, but you can't get drunk. Not now. You take a shot and ask the man to keep it for later. 
+
+# a0b9ac53
+; @choice "Go out." goto:.Go_out.
+
+# 745740c2
+; Your horse with all the equipment is waiting for you. Somebody took good care of it yestarday. You get on its back. You look at the clock on the tower. It's almost time. Oh no. The guy. Seriously? Is it really happening? You want to look away, but he's faster. He jumps. You turn away in disgust. 
+
+# c4aa4912
+; @choice "Ugh." goto:.Ugh.
+
+# 2edd3be0
+; You slowly make your way towards the outskirts of the town, where you will wait for the stagecoach. The whole town came to watch it. You feel like you shouldn't be doing this. Your inner voice tells you not to. Your second inner voice tells you to remember about the gold though. You agree with the second one. Let's be resonable for once. 
+
+# c6107955
+; @choice "You start thinking about being rich." goto:.You_start_thinking_about_being_rich.
+
+# de42de
+; @choice "You see something in the distance." goto:.You_see_something_in_the_distance.
+
+# bd8c182a
+; You imagine your new ranch, with a lovely wooden house, herds of cows and horses, green pastures... You would be living a stable farm life, with a decent woman by your side and a bunch of kids. Your sons would help you with the horses, and your daughters would stay home, learning to be as decend as their mother. Oh, and cooking stew for you guys. That's a beaufitul dream, indeed. Now, let's get back to business, shall we?
+
+# 32c3e706
+; @choice "There is something in the distance." goto:.You_see_something_in_the_distance.
+
+# 371eff2f
+; That must be your stagecoach. Although, it's coming from some strange direction. From the woods? Interesting. You hide in the shade under a tree. You are a little nervous and your horse can feel it, it's anxious too. It's extremely hot. No clouds. No wind. The stagecoach is getting closer. Are you ready?
+
+# 62d201d3
+; @choice "I'm ready." goto:.I'm_ready.
+
+# cbd3923
+; @choice "Not really. No." goto:.Not_really._No.
+
+# 1a38384e
+; You think too much. You know that at this point you have no choice, right? You gave your word. So concentrate, get ready and rob this bloody stagecoach.
+
+# 4ec3e6eb
+; @choice "Let's rob it." goto:.I'm_ready.
+
+# 8f3bc8a4
+; You hide behind a big rock. Your horse is quiet. It's an inteligent animal. But your heart... it starts pounding faster and faster. But that's OK, it's your firts time. Now. Take a deep breath. That's right. Again. Good. You'll be fine. Concentrate. They are coming. You have doubts. Has anybody ever managed to rob a stagecoach alone? They sure as hell have guns. There are men. What were you thinking? It must be this heat. No wonder the whole town got crazy. OK, they're here.
+
+# 2be874d0
+; @choice "You jump out from behing the rock." goto:.You_jump_out_from_behing_the_rock.
+
+# 2f4ba0e5
+; You run to the middle of the road. Horses are rearing up. You take advantage of the situation and access the coachman, you take his weapon with a quick movement. Holding him at gunpoint, you look inside the stagecoach. The passengers do not look scared at all.
+
+# b867d137
+; @choice "Make them fear." goto:.Make_them_fear.
+
+# 123717ec
+; @choice "Tell them to give you the valuables." goto:.Tell_them_to_give_you_the_valuables.
+
+# e192804e
+; Hit somebody in the face. A man? A woman? You choose a woman. You are surprised by your own choice. You are even more susprised that you hit somebody for no reason. And... that it came about so natural. That it almost felt good. And the people? They are a bit surprised too, but definitely not scared. You tell them that you'll gonna kill them it they don't cooperate. They still don't seem too moved by your words.
+
+# 404f3bc0
+; @choice "Hit her again, just for fun." goto:.Hit_her_again,_just_for_fun.
+
+# 123717ec
+; @choice "Tell them to give you the valuables." goto:.Tell_them_to_give_you_the_valuables.
+
+# e0539d59
+; The woman smiles. She must be mad. As they all are. And what about you? Have you just found your calling? Hopefully not. 
+
+# 123717ec
+; @choice "Tell them to give you the valuables." goto:.Tell_them_to_give_you_the_valuables.
+
+# 482347b4
+; Before you manage to say the last word, they are all already handing you bags with money and jewellery. As if they were prepared for it. Or as if they were waiting for it. What the hell is going on here? What is it? It ain't no time for deliberation. You remember the people in this town are a bunch of madmen. This thought calms you down a little. You tell them to put all the things into your bag. 
+
+# bd262edb
+; @choice "Bind them." goto:.Bind_them.
+
+# 42caa66c
+; You tell them to get out. They do it willingly. You throw the rope that you brought with you to the ground. You order the coachman to bind the passengers. They obediently line up in a row with their hands behind their back. What a bloody circus. Fear arises in you. That kind of fear that something terrible is about to happen when things are going too well. But nothing happens. You tie the coachman to the rest of the people. You check the ties. They seem fine.
+
+# c2971ab
+; @choice "Leave them your water bag." goto:.Leave_them_your_water_bag.
+
+# c2160535
+; @choice "Take the stagecoach and leave." goto:.Take_the_stagecoach_and_leave.
+
+# c9ffea0e
+; Yeah, you were supposed to be professional, but apparently you failed. This kind of job is not for you. 
+
+# c2160535
+; @choice "Take the stagecoach and leave." goto:.Take_the_stagecoach_and_leave.
+
+# 987d2926
+; You are heading towards the town. Your horse is running behind. Valuables jingling in the sack. You feel bad. Very bad. But it is what it is. Too late for regret. You enter the town, you stop in front of the jail. The whole town came to watch. They watch in silence. 
+
+# 781cd05b
+; @choice "Go in." goto:.Go_in.
+
+# e39ac847
+; The atmosphere is rather bleak. People don't look too happy. Did you do something wrong? Are you a terrible bandit? That's possible. You ask what's wrong. The priest sighs heavily and says, more to himself than to you, that it doesn't work. What doesn't work? Everybody looks really depressed. They don't wanna talk. The priest says you did fine and that you can keep the money. You are confused. And more and more annoyed. Secrets, heh?
+
+# d40e58a1
+; @choice "So it seems." goto:.So_it_seems.
+
+# 17c1ebd1
+; The stagecoach passengers you just robbed stand in the door. They look equally disappointed. You know you've already asked quite a few times, but what the hell? How did they manage to free themselves so quickly? Nevermind. You drop the bag with valuables to the ground. You don't want it. Actually, you don't want any of it. The gold that they gave you, you don't take it either. That was a bad idea from the beginning. You know it was, you felt it. Now you feel relieved. It's a great feeling. Old Joe offers you a glass of whiskey.
+
+# 3a91edc8
+; @choice "Yes, please." goto:.Yes,_please.
+
+# d2744f49
+; @choice "The only thing you want is to leave this town." goto:.The_only_thing_you_want_is_to_leave_this_town.
+
+# 8d8f214e
+; You all drink in silence. Just now you realize there is something strange about this whiskey. It tastes good, but... it seems like it's not too strong. Is there even a drop of alcohol in it? Whatever. You've seen enough in this town. Old Joe say's you'll get used to it. What? You are not planning to stay that long. Actually, it's time to leave.
+
+# b2362a93
+; @choice "Leave." goto:.The_only_thing_you_want_is_to_leave_this_town.
+
+# d5d12e43
+; You say goodbye, turn away and go out from the jail. You pass the lady you punched in the face. She has a black eye. It looks bad. You feel a bit guilty.
+
+# 1bc4f76d
+; @choice "Appologize to the lady." goto:.Appologize_to_the_lady.
+
+# b3b10f40
+; @choice "Just leave." goto:SCENE6.Just_leave.
+
+# f0e16007
+; You say you are really sorry, and that you have no idea what got into you. She smiles and says that it's ok, that you were simply doing your job. It's still very hot. 
+
+# e1cc2bb
+; @choice "Leave the jail." goto:SCENE6.Just_leave.
+
+# 339d1de1
+; You don't specialize in kidnapping. You rescue people from kidnappers. But you've seen a lot, and you know how to do it if you have to. You figure out who's best to kidnap. A child, of course. A child is unlikely to defend itself, and even if it does, it has no strength, no weapons, so it will be rather safe, and the parents will certainly be worried, so you kill two birds with one stone. 
+
+# 1e3df84b
+; @choice "Get ready." goto:.Get_ready.
+
+# 9a4bd6f
+; You need some props. A bag, a rope just in case, and that's probably it. You'll take a gun, of course, to scare the kid. It's not your style, you'd rather not do it, but if no one gets hurt and you get a lot of money, you're willing to sacrifice your crystal clear conscience. And you'd really like to leave this shady place already. 
+
+# 9fc1ecdc
+; @choice "Get on the horse and find a kid." goto:.Get_on_the_horse_and_find_a_kid.
+
+# 38f2ef1f
+; You ride for a while. You look like a pervert staring at children. There are a lot of them, it's difficult to decide. If you take one from the group, the rest will start screaming. And you hate screams. You need to find a lone child. Oh, there it is. A little boy on the road just outside of town. Perfect. You ride slowly towards him.
+
+# 1016183d
+; @choice "Get closer." goto:.Get_closer.
+
+# d76ee16f
+; How do you want to do it? Will you lure him into the woods first, then tie him up and put him in your bag, or will you just kidnap him in the middle of the road in broad daylight? 
+
+# 612ae90e
+; @choice "Into the woods." goto:.Into_the_woods.
+
+# abf2c89c
+; @choice "You don't have time to play, let's do it here." goto:.You_don't_have_time_to_play,_let's_do_it_here.
+
+# abe7e82
+; You approach the boy. You look around. You see no one. Just him and his little dog playing on the dirt road. You hate little dogs. You tell the boy that there is a corpse lying in the woods and ask if he wants to see it. Of course he wants to, every little boy wants to see a corpse in the woods. You help him get on the horse, put him in front of you, and as if nothing ever happened, you slowly ride off toward the woods.  The dog runs after you for a while, but quickly gets tired and falls behind. Great, just what you were hoping for. The kid is talking excitedly about something, but you're not listening, you're focused on the job.
+
+# 2ad09441
+; @choice "In the woods..." goto:.In_the_woods...
+
+# a91d92d7
+; You tell the kid you're not gonna hurt him and that everything will be OK. Yeah, like every murderer, who wants to silence his victim. But the kid is not screaming, instead he's talking all the time, which is equally annoying. You tie his hands with rope and throw him into a sack, which you then tie to a horse. If the kid gets shaken up a little, he might stop talking so much. 
+
+# c8444ae3
+; @choice "You go back to town." goto:.You_go_back_to_town.
+
+# 1e2189c2
+; @choice "Meanwhile, at his house..." goto:.Meanwhile,_at_his_house...
+
+# 51d69c4c
+; You move at a gallop toward the kid. He stands up and looks in your direction. You are surprised that he is not running away. Oh, he's wearing pants with suspenders. Perfect. Couldn't be better. You don't slow down, running past the kid, you grab him by the suspenders, lift him up and seat him in front of you. You'll put him in the sack before town. You've just kidnapped your first child, bravo. You look back, but other than the dog, no one is chasing you. The kid is surprisingly calm. He's probably in shock.
+
+# 84a7a74a
+; @choice "Where is his mother?" goto:.Meanwhile,_at_his_house...
+
+# 2e4b5289
+; @choice "You feel really uncomfortable in this role. You wannna go back to town." goto:.You_go_back_to_town.
+
+# 58a72419
+; His mother, who was in the middle of cleaning up, saw well what had happened. But instead of panicking because her child had been abducted by a stranger, she breathed a sigh of relief, happy to have a moment of peace, took off her apron, put down her broom, poured herself a glass of cold water and settled down for a nap in front of the house. What a town. Pathology at every turn. 
+
+# d103f025
+; @choice "Take the kid to town." goto:.You_go_back_to_town.
+
+# ff035da4
+; You take the kid to jail, where everyone is waiting for you. You throw the sack on the ground, maybe a little too hard. You untie the rope to let the kid out. This is not what you expected. A smiling boy peeks out. He doesn't know what's going on, but he clearly enjoys it. It's an adventure after all. The people gathered around you shake their heads in disappointment. The kid looks around cheerfully. You understand that your plan has failed, though you don't really understand why. You give up. You leave the gold, although they say you can take it. You don't want it. You just wanna leave.
+
+# 481c6378
+; @choice "Leave." goto:SCENE6.Just_leave.

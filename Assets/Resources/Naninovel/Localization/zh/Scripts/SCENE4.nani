@@ -1,0 +1,40 @@
+; English <en> to Chinese <zh> localization document for `SCENE4` naninovel script
+
+# b9fa6d09
+; You're enter the jail. It is quiet. The cells are open. In some of them homeless drunkards sleep on bunks. There's no sheriff, just an old toothles grandpa, Old Joe, dozing in his chair. You wake him up.
+
+# 1cacad2
+; @choice "Who's Old Joe?" goto:.Who's_Old_Joe?
+
+# d46c85d3
+; @choice "Introduce yourself." goto:.Introduce_yourself.
+
+# 9297a298
+; Well. He's a 70-year-old toothless, lame alcoholic, dirty and unkept, unshaven and always smelly of whiskey.
+
+# c1bfc198
+; Joe's mother died in childbirth, soon after which his father remarried and started a new family. When Joe was 5, he was kicked out of the house. He wandered around the country, learnt to ride stowaways. In order to survive, he became a thief. He often ended up in arrests and reforming houses, from where he always escaped. After one of the escapes, he was left with a spine injury, he also broke the ankles in both legs. The fractures did not heal well, making Joe limp for the rest of his life. In one of the prisons, an inmate tought him to read and write. Joe read a lot, mostly books about Wild West heroes, his favorite being Jesse James. He stole books from shops or prison libraries. 
+
+# 8436aa98
+; @choice "Joe had no one." goto:.Joe_had_no_one.
+
+# 167e1c56
+; He felt lonely. His greatest dream was to start a family. To his surprise, but also to his joy, he was taken in by an old couple after breaking into their house. He lived with them for a while, helped them on the farm. One day, in his absence, the couple was murdered. He was accused of manslaughter and sentenced to 15 years in prison. He was sent to prison in Gravestone, where he befriended the sheriff, who didn't want to send him to a prison in another city. After a few years, at the sheriff's request, the judge allowed Joe to work off the rest of his sentence as the sheriff's help. Joe cooked, cleaned and watched over prisoners. After the end of his sentence, he remained in his position. He felt that he had finally found his place. He was needed, well treated, there was always something going on, there was someone to talk to and to drink whiskey with. And Joe liked to drink. He gradually felt into alcohol addiction. He drank not only for company, but also to forget about the past. Many years have passed.
+
+# f061cb1
+; That's a very sad story.
+
+# 41fce667
+; @choice "Let's go back to the business." goto:.Introduce_yourself.
+
+# 2ceaadbd
+; You tell Old Joe that you've been poisoned and need a place to die. Old Joe and the priest exchange knowing glances. At this point you don't give a shit anymore, you just want to lay down and have some rest. If eternal, so be it. Old Joe point at the empty cell. You thank him and go inside. You take your belt off, throw it on the ground and throw yoursel on the bunk. You are exhausted. The other guys are snoring loudly, but you don't mind.
+
+# b3107503
+; @choice "Goodbye world." goto:.Goodbye_world.
+
+# d3d1a585
+; You open your eyes. There is a bunch of people standing above you. Angels? No. They definitely don't look like angels. Devils? Possible. They stand in silence, staring at you. You ask politely what the hell do they want? They tell you they have a job for you. Now we're talking!
+
+# 6e52ce14
+; @choice "What job?" goto:SCENE5.What_job?

@@ -1,0 +1,124 @@
+; English <en> to Chinese <zh> localization document for `SCENE10` naninovel script
+
+# ce9a2e4
+; You enter the church, where people are praying. You don't have to say anything, you have it all written on your faces. Silence falls. You feel bad. You feel like a loser. And you're not a loser. Ergo? You need a new plan, but this time one that works. But first - a nap. You go to jail and lock yourself in your cell. You roll from side to side, unable to sleep. You hear people talking outside. You know they are counting on you. And you feel bad about it. 
+
+# b59cad
+; @choice "Suddenly you get an idea!" goto:.Suddenly_you_get_an_idea!
+
+# a91e8bc5
+; Is it a good idea? It's not brilliant, but it's worth a try. You look pretty much alike, maybe you can dress up as the Bad and do something evil. There's a chance no one will guess. And that it'll work. You're tired, you're sick of it all, you want to get out of here as soon as possible. That's what motivates you the most.
+
+# 2a699a90
+; @choice "Let's do it." goto:.Let's_do_it.
+
+# 61cde46a
+; @choice "You ask the beautiful widow to help you." goto:.You_ask_the_beautiful_widow_to_help_you.
+
+# e40b9e8
+; You need new clothes. All black. She knows exactly what kind, because she's seen it up close more than once. Without delay she starts sewing and after a few hours you have your outfit. It fits perfecly. You look in the mirror and get a strange feeling. You really do look like him. You could be him. Would you want to be him? Of course you wouldn't, what a stupid thought. You are truly grateful to the beautiful widow. She is happy to have helped. Her son is still annoying. He's playing with your hat, and you hate it when someone touches your stuff.
+
+# 645fd278
+; @choice "You leave." goto:.Let's_do_it.
+
+# 5dd604c4
+; You're back in town. As you walk down the streets people look at you, whispering among themselves. You realize that they really think you are the Bad. That's even better. You head to the store. You open the door with a kick. That feels so good! The people in the store are frightened by the noise. Very well, they should be, you came to rob. 
+
+# e4d39adb
+; @choice "Let's demolish this place a little first." goto:.Let's_demolish_this_place_a_little_first.
+
+# f93315ad
+; @choice "Take out your guns." goto:.Take_out_your_guns.
+
+# 1e18f9a0
+; You are knocking things from the shelves, breaking bottles, spilling candy. You're slowly starting to lose your nerve about the whole situation, so it's very enjoyable. It allows you to unwind. But then you look at people. What are they doing? Smiling. Jesus Christ, not again!
+
+# 1f7b9158
+; @choice "You take out your guns." goto:.Take_out_your_guns.
+
+# 5508c238
+; They don't look scared. And before you can say anything, the shopkeeper puts a bag of money on the counter, as if he was prepared for this, and the customers hurriedly take off their jewellery, watches and whatever else they have of value and pull it towards you, with big smiles on their faces of course. You wanna cry. 
+
+# f490b289
+; @choice "Suddenly" goto:.Suddenly
+
+# b7c71193
+; ... the glass in the window breaks and the door opens with a bang. A crowd of people, who had been watching everything from outside, rushes into the store. You throw your guns on the ground and leave, pushing your way through the crowd. The people are getting sad. Disappointed, they leave the store. 
+
+# d5f3a3e9
+; @choice "You've had enough." goto:.You've_had_enough.
+
+# b66f95fb
+; @choice "What the hell is wrong?" goto:.What_the_hell_is_wrong?
+
+# bd77481b
+; That's just too much for you. You dream of getting drunk. You lie down under a tree and imagine yourself getting drunk to the point of unconsciousness. It doesn't work. 
+
+# 578b9a6b
+; @choice "You wonder what went wrong again." goto:.What_the_hell_is_wrong?
+
+# 2324acd0
+; How are you supposed to help these people when they are constantly getting in your way? What is wrong with them? And then it gets to you. You can't do evil if they don't see what you're doing as evil. As long as they support you and cheer for you, nothing will come of it. Plus, your motivation. It's good. Or at least it isn't bad. But what can you do about it? Suddenly the situation has become much worse, even hopeless. Does that mean you'll stay here forever? You think of killing yourself but you know you just can't. 
+
+# 4ef804f7
+; @choice "Well, there must be a way then" goto:.Well,_there_must_be_a_way_then.
+
+# c32613dc
+; You share your existential insight with the priest. You tell him that you are simply not able to commit a serious crime. Is that true? Or you're just scared that you may actually like it? Huh? Either way, you're not gonna do it, and even if you try, look what happens. These people ruin everything every time. You both contemplate this hopeless situation.
+
+# 4612ea99
+; @choice "What if..." goto:.What_if...
+
+# 43cc7f79
+; @choice "Get depressed over it." goto:.Get_depressed_over_it.
+
+# 68d90d1e
+; You sit in silence. At least it's not so hot here in jail. Some other people join you. Also looking depressed. No one sees any hope. You cannot leave. You cannot get drunk. You cannot die. One thing is for sure. You are in hell. Suddenly you get an idea!
+
+# 96f23674
+; @choice "What is it?" goto:.What_if...
+
+# 8f986527
+; What if you could find someone so evil that they could turn the lives of the townspeople into an even worse nightmare than the one they live in now? They would stop being happy and real evil could occur. But isn't that exactly the problem? That there is no such person? Well, not here, but you know a few such people and they could be brought here somehow. It may not be necessary though. You look out the window. Who's that coming? The Bad himself.
+
+# 5d203e76
+; @choice "Suddenly you see a light in the tunnel." goto:.Suddenly_you_see_a_light_in_the_tunnel.
+
+# da74f332
+; @choice "Nah, that's too beautiful to be true." goto:.Nah,_that's_too_beautiful_to_be_true.
+
+# 9ff6d223
+; Shut up! There is a light in the tunnel. See it.
+
+# 6dc36cc4
+; @choice "It's not too bright but..." goto:.Suddenly_you_see_a_light_in_the_tunnel.
+
+# 7a3993a2
+; The Bad enters the jail. The atmosphere suddenly changes. It's as if new life has entered the people. Everyone is hoping that the Bad has returned. That he's about to start shooting, killing or at least injure someone, that he will steal or destroy something, no matter what. But that's not his plan. Plus, we already know that it would not work anyway. The Bad seems very happy. You don't. You look at him suspiciously. And rightly so. He looks a bit... insane. 
+
+# 5d7b91c1
+; @choice "The Bad tells you he has a plan." goto:.The_Bad_tells_you_he_has_a_plan.
+
+# 27bd4bf2
+; You can't wait to hear it. But you don't expect much. Not from him. Well, you may have misjudged him, cause it seems that you two just came up with very similar plans.
+
+# 9cfa2b29
+; @choice "Is that so?" goto:.Is_that_so?
+
+# 9316bb67
+; @choice "Not possible." goto:.Not_possible.
+
+# d673d955
+; Have some faith, will you? Just because someone was hit in the head, doesn't mean he cannot have good ideas. Or maybe he can have great ideas exactly because he was hit in the head. You know, like a crazy genius or something.
+
+# e4b14299
+; @choice "Let's find out." goto:.Is_that_so?
+
+# 64b611a4
+; Here it is. The Bad tells you that you will organize a contest. You'll invite the worst of the worst and you'll find your man. 
+
+# 82f05d9a
+; @choice "That's a very good plan." goto:SCENE11.That's_a_very_good_plan.
+
+# ee3b8843
+; @choice "That's a terrible plan, but what choice do we have?" goto:SCENE11.That's_a_very_good_plan.

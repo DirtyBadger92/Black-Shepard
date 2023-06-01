@@ -1,0 +1,127 @@
+; English <en> to Chinese <zh> localization document for `SCENE2` naninovel script
+
+# 65378907
+; Since you are the good guy, your mission is simple - to save every town you enter on your white horse and every widow you encounter on a dirt road. There is a lot of evil in the world to keep you busy. Or so it seems. 
+
+# d6113e72
+; @choice "Let's save some town." goto:.Let's_save_some_town.
+
+# 335a44d8
+; You ride your white horse through the mountains. The heat is unbearable. There is not a single cloud in the sky, and the hot wind blowing from the desert only makes things worse. You can hear the buzzing of flies trying to reach your horse's rump. You have a hat pulled over your eyes and a cigar in your mouth. You are taking your time. No matter when you get there, there will always be some scum to get rid of. In the distance you can see the town. This is the infamous Gravestone, known as the cradle of vice.
+
+# 2baed6bc
+; @choice "Approach the town." goto:.Approach_the_town.
+
+# 45e05d1
+; @choice "Find out more about the town." goto:.Find_out_more_about_the_town.
+
+# f73235b5
+; You enter the town. You pull your hat deeper over your eyes. You know it's better not to look around and your horse knows well how to find its way to the saloon. You ride across the square. It's surprisingly quiet. You only hear the voices of the children playing. They play on the gallows, using it as a swing. Children. These lovely little creatures.
+
+# 87139705
+; @choice "There it is!" goto:.There_it_is!
+
+# b97afb8c
+; You happen to have the right materials. You take a crumpled newspaper clipping out of your pocket. You read it. Hm, interesting. The reputation of this town is, to put it mildly, not the best. Legend has it that it was built on an old Indian cemetery and that more Indians were killed defending it. Many years has passed. It is said that sometimes at full moon you can hear war chants and see warriors getting ready to fight. If you are extremely unlucky, you can meet Indian women carrying dead children in their arms, disappearing into thin air. There is no one brave enough to dare to walk through the cemetery at night. Neither should you. Never. This town was built on blood of the innocent. And it calls for revenge.
+
+# 2baed6bc
+; @choice "Approach the town." goto:.Approach_the_town.
+
+# 8d2d72fa
+; Saloon! Finally. These swinging doors. Make you feel like you are entering your mother's house. There's a large plaque with a yin yang sign above the door. Yin yang? That's weird. You get off the horse. When you put your feet on the ground, clouds of sand rise from under your boots, and the spurs make a distinctive sound that carries through the town. You tie the horse next to the drinker.
+
+# de8822a6
+; @choice "Go inside." goto:.Goinside.
+
+# a2b7ea8d
+; You go in. Usually one glance is enough and you already know whose blood is about to be shed. Not this time. The rough looking guys take a look at you and go back to their business. Nobody cares. Interesting. Behind the bar, an old Chinese man is cleaning glasses. Oh, yin yang. Makes sense. By the wall there is a coffin transformed into a cupboard with many bottles of alcohol on the shelves. There is a thick smoke in the room, you can see the dust dancing in the air. Somebody is playing the piano. No girls though. Strange. 
+
+# a003cea
+; @choice "Go to the bar." goto:.Go_to_the_bar.
+
+# dac8251e
+; @choice "Accidentally step on somebody's foot." goto:.Accidentally_step_on_somebody's_foot.
+
+# c88fc673
+; The guy looks at his boot. Then he looks at you. You are ready to punch his face. In self-defence, of course. That's how you do it here, right? Some touching with the boys as a friendly form of greeting. But, hey! The guy smiles, pats you on the back and continues his friendly chat with the not so friendly looking cowboy. What the hell? What are they drinking? What are they smoking? Let's find out.
+
+# a003cea
+; @choice "Go to the bar." goto:.Go_to_the_bar.
+
+# 883fbcb
+; The Chinese man puts a pint of beer on the bar. You drain your beer in one gulp. He pours another one. You take it and go to an empty table by the window.
+
+# c5cb309
+; @choice "Sit down." goto:.Sit_down.
+
+# d1a82a8f
+; @choice "Accidentally pour your beer on one of the cowboys." goto:.Accidentally_pour_your_beer_on_one_of_the_cowboys.
+
+# 16d24f5b
+; He's wet all over. Suddenly there is silence in the room. He is looking at you as he wipes his soiled, sweaty shirt. He is big and looks scary. That's it. You are ready to punch his face. Again, in self-defence. But no. The giant smiles kindly and calls out the Chinese who brings you a new beer. You are serioulsy confused. And already a bit irritated. Are they making fun of you? Or worse? You go to your table.
+
+# c5cb309
+; @choice "Sit down." goto:.Sit_down.
+
+# 9f41c4d9
+; You sip your beer. It's nice and cool. That's exactly what you needed after a day in the saddle. You start to feel a little hungry. You ask for something to eat, some stew or some beans at least, but they have nothing. What? Nothing to eat? In the bar? Fine. You take another beer. You notice that people look at you stealthy from time to time, whispering to each other. You start to feel more and more uncomfortable. Suddenly the door opens. It's a priest. He runs his eyes across the smoky room, sees you and heads straight to your table. He asks if he can join.
+
+# 686665c9
+; @choice "Let him sit." goto:.Let_him_sit.
+
+# 53b2be7a
+; @choice "Let's find out more about this priest." goto:.Let's_find_out_more_about_this_priest.
+
+# 56ed2bc3
+; Yep. You guessed it. The clergy was not his first calling. Before he started studying his bible, he was an alcoholic, gunslinger and gambler. He loved it. What happened then? Well, God only knows. 
+
+# 4bfc51fa
+; @choice "Let's ask God." goto:.Let's_ask_God.
+
+# 1caa6595
+; @choice "Ask the priet to sit." goto:.Let_him_sit.
+
+# 52b2f5da
+; Come on! NO.
+
+# 21b029c9
+; @choice "Oh, all right." goto:.Let_him_sit.
+
+# 2ba5a8cc
+; He sits down. The Chinese pours him coffee into the metal cup he brought with him (he holds it in a holster instead of a gun, in the other holster - cigars and a mini bible. How sweet). You finished your beer. And you are ready for whiskey. You ask for the whole bottle and a glass. You get it. The priest sips his coffee. You offer a drop of whiskey to strenghten the taste of it, but he refuses. You know, alcoholics. Once they start... eh. OK.
+
+# f435dbaa
+; @choice "Talk to the priest." goto:.Talk_to_the_priest.
+
+# d9bbfac4
+; @choice "You drink in silence, like old buddies, staring out the window." goto:.You_drink_in_silence,_like_old_buddies,_staring_out_the_window.
+
+# 1b6f7065
+; You have a friendly chat about the weather. The weather is very nice. Yes, indeed. Quite hot though. Indeed. Hot. OK, it's time to go. On the way out you notice a photo on the wall, that catches your attenstion. You look closer. Several gunslingers. And some dead bodies. Does any of them look familiar? Maybe. The Chinese notices you loking at the photo. He asks you if you want to hear a story.
+
+# a109af5a
+; @choice "I sure do." goto:.I_sure_do.
+
+# a6ac51d4
+; @choice "Nah, I've heard enough. Go outside." goto:.SCENE3.Outside
+
+# c9dec5a
+; He tells you the story about the gunfight at the O.K. Corral. You've heard it a million times before, who hasn't?, but you listen to it anyway. You kinda like it. It's like a bedtime story that you know by heart, but you like others telling it to you over and over again. So he tells you that the gunfight didn't actually take place at the O.K. Corral, but a bit further, in a lot on the side of a photography studio. That it only took 30 seconds whithin which 30 bullets were shoot, 3 man killed and 3 wounded. The only man that was standing unscratched was Wyatt Earp, the legend of the Old West. His brothers Virgil and Frank and Doc Holliday managed to escape death. The outlaws, called the Cowboys weren't that lucky. Billy Clanton, Tom and Frank McLaury were shot to death. Wes Fuller, Billy Claiborne and Ike Clanton fled the place of the fight. Cowards.   
+
+# 1116119d
+; You thank for the story and you go out. The priest follows you.
+
+# fec0923d
+; @choice "Outside" goto:SCENE3.Outside
+
+# 4c537188
+; 5 minutes has passed. 
+
+# ef8f0cc4
+; 10... 
+
+# 78f056b7
+; 15... Your bottle is half empty. You've had enough. You feel a little dizzy. You throw some coins on the table and leave. The priest follows you.
+
+# fec0923d
+; @choice "Outside" goto:SCENE3.Outside

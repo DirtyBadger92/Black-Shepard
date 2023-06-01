@@ -1,0 +1,71 @@
+; English <en> to Chinese <zh> localization document for `SCENE1` naninovel script
+
+# fb21ac08
+; Think of a typical western movie. Imagine cowboys riding horses, drunkards starting fights in saloons, gunslingers shooting guns in full sun, settlers trying to find home, beautiful widows baking pies for a picnic after sunday mass. Can you sense the sweet smell in the air? It's hot. Very hot. 
+
+想想一部典型的西部电影。想象一下，牛仔骑着马，酒鬼在酒馆里打架，枪手在阳光下开枪，定居者试图找到家，美丽的寡妇为周日弥撒后的野餐烤制馅饼。你能感觉到空气中的甜味吗？天气很热。非常热。
+
+# d1a4506
+; Stagecoaches travel through the mountains, from time to time you may even hear a train whistle somewhere in the distance. This is our world. Wild West.
+
+驿马车在山间穿行，不时地你甚至可能听到远处某处的火车汽笛声。这就是我们的世界。狂野的西部。
+
+# bcb56482
+; @choice "Learn more about the world."  goto:.Learn_more_about_the_world.
+
+# 9f35181b
+; @choice "And who am I?"  goto:.And_who_am_I?
+
+# e50f77e6
+; Life is not easy, sometimes it gets pretty hard, but at least it's simple. Bandits attack, steal, rape and kill, ordinary people live in fear, bounty hunters hunt the outlaws. Everyone does his job, the world keeps spinning. If you are lucky enough, you have a nice family, a piece of land and some cattle. You lead a peaceful life. Maybe you even manage to live to your old years. But the chance is slim.
+
+# fee1303f
+; @choice "And who am I?" goto:.And_who_am_I?
+
+# bd95cd9b
+; Well. Think about Clint Eastwood. Do you know him? You sure do. Now think about some of his movies and the characters he played. This is you. The good guy. You are so good, that everybody calls you "the Good". Got it? A good guy with a past. Someone who always sleeps with his shoes on and a gun instead of a pillow. A typical bounty hunter from the Wild West, a lone rider. And above all, a man with a mission.
+
+# b52d69fa
+; @choice "Let's go on a mission." goto:SCENE2.Let's_go_on_a_mission.
+
+# 49f57d00
+; @choice "I wanna know more. What's my story?" goto:.I_wanna_know_more._What's_my_story?
+
+# ba68412c
+; Your father was a typical outlaw - a drunkard and bandit who brutally abused your family. So cliché. One day, when you were only 10, he went one step too far, leaving you no choice. This time it was his or your mother's life. You made the right choice. You killed him without hesitation. The nightmare was finally over. To support your mother and younger siblings, you worked as a cowboy. You promised yourself never to follow in your father's footsteps. Never.
+
+# 4cdc2574
+; @choice "When you grew up..." goto:.When_you_grew_up...
+
+# b52d69fa
+; @choice "Let's go on a mission." goto:SCENE2.Let's_go_on_a_mission.
+
+# 94acac19
+; ... you started your own family. You were a cattle breeder and were doing well. You had a nice little ranch in a green valley, not far from town. You were quite happy. But that happiness wasn't meant to last long. When you returned home one day, you found the farm burnt to the ground and your pregnant wife and little son dead. In that moment your life ended, everything that mattered was gone, everything you hoped for was never to happen, life lost it's meaning, you lived but were dead inside. You swore to devote your life to fighting the bad guys. That's so predictable. You became a bounty hunter and you are really good at it. You ride from town to town, sending outlaws to their graves, hoping your family's killers are among them.
+
+# 6d805fde
+; @choice "How do I look?" goto:.How_do_I_look?
+
+# b4144502
+; @choice "Let's send some outlaws to their graves." goto:SCENE2.Let's_go_on_a_mission.
+
+# e2ab704c
+; Still Clint Eastwood. You are a tall, slender man, about 45 years old, with blue eyes, a weather-beaten face, sun-bleached hair, and a stubble on your face. Dressed all in white - a leather hat, coat, leather pants, cowboy boots with spurs, a scarf around your neck, and a cigar in your mouth. You have two revolvers and a set of ammunition in the belt holsters. You often spit.
+
+# dddfd322
+; @choice "What about the scar on my neck?" goto:.What_about_the_scar_on_my_neck?
+
+# cffbf015
+; @choice "Let's use these guns." goto:SCENE2.Let's_go_on_a_mission.
+
+# 556c5c20
+; Well, that's a mistery. You don't remember, we don't ask. 
+
+# 1ad88072
+; Oh, and in case you were wondering... yes, women love you. 
+
+# a2b9b774
+; OK, now we're good.
+
+# b52d69fa
+; @choice "Let's go on a mission." goto:SCENE2.Let's_go_on_a_mission.

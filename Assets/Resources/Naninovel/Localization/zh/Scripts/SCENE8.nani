@@ -1,0 +1,112 @@
+; English <en> to Chinese <zh> localization document for `SCENE8` naninovel script
+
+# 27335296
+; You know you have no choice. If you want to leave this town, something has to be done. For some reason you believe that the Bad can actually be persuaded. And you happen to have a great gift for persuasion. You've already persuaded many in your life. You make sure that the gold deal still stands. And that you'll get paid no matter how you put this mess back in order. The priest says it all stands and that you can do whatever you want. Great. Then it's time to pay someone a visit. The priest tells you how to find the Bad. 
+
+# fe13a
+; @choice "You don't waste your time." goto:.You_don't_waste_your_time.
+
+# be52f401
+; It doesn't matter though, cause you get lost right away. You find yourself in the middle of nowhere. And what's that? An Indian tent? 
+
+# ff2e04dc
+; @choice "Let's explore." goto:.Let's_explore.
+
+# 88b8bd46
+; @choice "Forget about the tent. Focus on your mission." goto:.Forget_about_the_tent._Focus_on_your_mission.
+
+# fb8e48f7
+; You come closer. There is an old Indian woman sitting by the fire, smoking her pipe. She's apparently blind. But not deaf. She greets you. She doesn't seem surprised by your presence. She says she's been waiting for you. She hands you a cup with some kind of suspicious drink. Since you like suspicious drinks, you gladly take a few sips. The drink is disgusting and thick as tar, but it makes you feel good. The Indian woman hands you a pipe. You love pipes. Now it is getting really nice. You want to sit down, but you know that if you do, you will not leave soon. And you are in a hurry.
+
+# 8cdd3cc5
+; @choice "Maybe just for a moment." goto:.Maybe_just_for_a_moment.
+
+# 16e13415
+; @choice "Take another sip of the suspicious drink." goto:.Take_another_sip_of_the_suspicious_drink.
+
+# d5d9b570
+; You sit down. You drink and smoke with the Indian woman. She asks you if you are hungry. What? You thought there is no food in this place. But you are not overly inquisitive. You are hungry. You accept this kind offer. Oh yeah, meat! Is it a squirrel? Never mind. It's delicious. You want to stay here forever. Maybe a little nap? 
+
+# 65754547
+; @choice "That's a bad idea." goto:.That's_a_bad_idea.
+
+# 5e27aa2e
+; @choice "That's a very bad idea." goto:.That's_a_bad_idea.
+
+# 97a4b4c5
+; You like it. You really do. The Indian woman smiles. You start seing Indians. Are they real? They can't be. They are strangely transparent. But they look friendly. And you've been poisoned. Well, maybe not poisoned, drugged. You're okay with that. You remember you're on a mission to save Gravestone.
+
+# 201020aa
+; @choice "It's time to go." goto:.That's_a_bad_idea.
+
+# 7ef6ad1d
+; You say you wish you could stay, but you have something to take care of. The Indian woman gives you a tiny bottle of some kind of liquid and a strange necklace. You ask what it is, but get no answer. As you say goodbye, the Indian woman hands you her pipe. You take a drag of the smoke. Oh, that's good. You wonder which way to go. The Indian woman, as if reading your mind, without a word shows you the direction.
+
+# acd31ea8
+; @choice "You're on your way." goto:.Forget_about_the_tent._Focus_on_your_mission.
+
+# e74c8b3e
+; You pass the Indian cemetery and enter the forest. It's weird. You feel like you're being watched. But there's no one here. Or so you think. You come out into a small clearing. There it is. Exactly as they described it. A small hut built of branches and rags. And in front of it some raggedy man dressed in black, sitting in the sun, smiling to himself like an idiot. Great, and you were hoping for a rational conversation here. Not going to happen.
+
+# e427add8
+; @choice "Come closer." goto:.Come_closer.
+
+# d3b2f6c2
+; He notices you. He smiles even wider. He gets up and hugs you tightly. He smells awful. You break free from his embrace and look at him closely. That's weird. He looks familiar. As if you have met before. Apparently he feels the same way. He says that he is very happy to see you and that he would like to treat you to something, but unfortunately he is fasting, so he has nothing. That's OK. Oh, wait, what? You can eat here? Anyways. You wanna listen to the story. You want details. 
+
+# 7404bf77
+; @choice "Listen to the story." goto:.Listen_to_the_story.
+
+# 9ca55fa8
+; He tells you the story you've already heard. An Indian cemetery, a horse, a stone, Virgin Mary. You know what she told him, but you ask anyway. He tells you that she told him to stop doing evil, instead, to devote his life to prayer and lead a solitary life in exile. You ask if it's posiible that someone was simply making fun of him and that in fact it was a regular person in disguise. 
+
+# 218183b0
+; @choice "He says no." goto:.He_says_no.
+
+# 3d10d6b9
+; He says it's not possible since the Virgin Mary was floating in the air, emanating a strange supernatural light, and spoke to him without uttering a word. Great. Rational conversation, huh? But all hope is not lost. Maybe the gold will speak to him. Or not.  
+
+# 934dabb2
+; @choice "Try to bribe him." goto:.Try_to_bribe_him.
+
+# 4cd4921a
+; @choice "The guy is obviously crazy. He doesn't need gold. But you do." goto:.The_guy_is_obviously_crazy._He_doesn't_need_gold._But_you_do.
+
+# b41921b0
+; You tell him about the gold you were promised if you manage to fix this situation. You offer him a half of it, if he agrees to go back with you and help. He tells you that God gives him everything he needs. Yeah, that's exactly how it looks. A paradise on Earth... You ask him if he knows what happened in town after he left. You tell him about the suffering of the townspeople. About their madness. About how they can't sleep and how they have nothing to eat. And worst of all, about how they can't even get drunk properly, because the alcohol has lost its properties. Families are falling apart because suddenly everyone started loving everyone else. Chaos. Hell on earth. He says he knows all that, but there is nothing he can do about it.
+
+# 7e24e67d
+; @choice "Tell him how wrong he is." goto:.Tell_him_how_wrong_he_is.
+
+# d6bfc477
+; You tell him that it's actually very simple. All he has to do is to go back to town and be himself again. To be bad. He says he caused enough pain in his life and that now he's a new man. You tell him that it's great because he just has a unique opportunity to redeem himself. He must sacrifice himself and do evil, thus freeing people from the suffering he unintentionally brought upon them. He refuses. Mother Mary said no evil. You begin to loose your patience. Try to provoke him. 
+
+# 17b50a
+; @choice "Slap him in the face." goto:.Slap_him_in_the_face.
+
+# 757cd86d
+; Unbelievable. He smiles and turns the other cheek. Well...
+
+# bfca8748
+; @choice "Slap him on the other cheek." goto:.Slap_him_on_the_other_cheek.
+
+# 47568630
+; He smiles again. Now you are really annoyed. You've had enough and you see no prospect of further conversation. He tells you that he understands you did it with good intentions, to help people, so he doesn't mind.
+
+# 194e9650
+; @choice "Slap him again. For no reason." goto:.Slap_him_again._For_no_reason.
+
+# a664202a
+; @choice "That's not gonna work. You need a plan." goto:.The_guy_is_obviously_crazy._He_doesn't_need_gold._But_you_do.
+
+# 847f8542
+; You tell him that this time was just for fun. And that you liked it. The truth is you actually did. He smiles. He doesn't believe you. OK, that's it, you're not gonna get anywhere this way. But you do have an idea.
+
+# 867080d9
+; @choice "Get the hell out of here." goto:SCENE9.Say_goodbye_and_leave.
+
+# 93fd8a5a
+; You see you can't convince him with rational arguments. It would just be a waste of time. And you don't like wasting time. Plus, you want your gold just for yourself. You have a better idea. But you need help.
+
+# dccccf36
+; @choice "Say goodbye and leave." goto:SCENE9.Say_goodbye_and_leave.

@@ -1,0 +1,172 @@
+; English <en> to Chinese <zh> localization document for `SCENE9` naninovel script
+
+# 9be29b70
+; You go back to town. People are waiting for you in jail. You tell them you failed. They are not surprised, that's exactly what they expected. BUT! There is a chance. Hm, that's something new. 
+
+# 2c0f8456
+; @choice "Tell them your brilliant plan." goto:.Tell_them_your_brilliant_plan.
+
+# 8b5b13cb
+; @choice "You need to think it over. And you need a rest." goto:.You_need_to_think_it_over._And_you_need_a_rest.
+
+# 930189aa
+; You lock yourself in a cell and you fall asleep right away. You have a dream. 
+
+# 3b61288d
+; @choice "I love dreams. What was it?" goto:.I_love_dreams._What_was_it?
+
+# 3f19eeed
+; @choice "You wake up after a few hours." goto:.Tell_them_your_brilliant_plan.
+
+# f30fe1b6
+; You are ten years old. You ride into town on horseback with your father. It is a hot Sunday. Elegantly dressed people are rushing to church. Your father rushes to the saloon. A man very similar in appearance to your father comes out of the store with a boy about your age. Are they brothers? They exchange hateful glances and pass each other without a word. The man and the boy enter the church, your father enters the saloon, you stay to watch the horse. You're bored. You wonder who the people you just met are. You see the boy coming out of the church, looking around. You wave to him and in a moment you are playing sheriff and bandit. You are the bandit.
+
+# e361f4f2
+; @choice "That's fun! What next?" goto:.That's_fun!_What_next?
+
+# e3f7bdd
+; @choice "Me? The bandit? Interesting. Go on." goto:.That's_fun!_What_next?
+
+# bca1b9c6
+; @choice "It's time to wake up." goto:.Tell_them_your_brilliant_plan.
+
+# 9aab57ce
+; You play out a typical revolver duel. You stand back to back, take ten steps, turn around... and fire your toy guns. Your opponent loses, falls to the ground and pretends to die in convulsions. At that moment, your father stands in the doorway of the saloon, tells you to come to him immediately. He yanks you by the ear. The fun is over. 
+
+# f400b883
+; @choice "Wake up, you have something to do." goto:.Tell_them_your_brilliant_plan.
+
+# 257bdc75
+; You tell the people the Bad got seriously crazy and that the only way out is to outwit him. His undeniable weakness of mind will be very helpful. People listen to you in silence. The plan is simple. You will choose the most beautiful girl in town, dress her up as the Virgin Mary, and send her to him with a command to do evil. Easy. If it worked once, maybe it will work again. Someone suggests hitting the Bad hard on the head so he sees the stars and the glow around the girl. Great idea! So it's decided. 
+
+# 87037a9d
+; @choice "Let's find our beauty. It's easy." goto:.Let's_find_our_beauty._It's_easy.
+
+# ef2aa36e
+; @choice "It's not easy to find the right girl in this town." goto:.It's_not_easy_to_find_the_right_girl_in_this_town.
+
+# c81d7bb5
+; They all seem exceptionally promiscuous. In fact, they are. You've already noticed it. Maybe this place is not so bad after all. Anyway. We need to find a girl who doesn't look like a prostitute. Or at least the one that can pretend to be as pure as the Virgin Mary herself. You have your doubts. But it's worth a try. You ask all the girls who volunteer to help to dress as the Virgin Mary is dressed on the painting in the church.
+
+# 775465c5
+; @choice "They do just that." goto:.They_do_just_that.
+
+# f6d2b24f
+; You immediately recognize your mistake. You forgot to mention makeup. The Virgin Mary with fiery red lips? With painted eyelashes? Not even someone with a severe brain injury would fall for that. The girls wash off their makeup. It doesn't even look too bad now. There's hope. You line up your virgins and ask them to say something in biblical style. Three of them mention something about the Four Horsemen of the Apocalypse and the hell that followed them.
+
+# cf1ceb53
+; @choice "Now choose the one." goto:.Now_choose_the_one.
+
+# 95fca65
+; How about a song about the baby Jesus? Mary certainly enjoyed singing to herself as she strolled through the flowery meadows. Ask the girls to come up with something on the spot. They do.  They all sing beautifully, but two of them sway their hips flirtatiously. Clearly they didn't catch the idea. Well, you have your Virgin Mary then.
+
+# a4162d83
+; @choice "Choose a few helpers." goto:.Choose_a_few_helpers.
+
+# 31cf463
+; For some reason all the girls in town are beautiful. And they all volunteer to be part of your cunning plan. You pick the first one, there's no time to waste.  The women dress her up in a luminous light gown. She truly looks like a saint. Her long blond hair falls to her shoulders. Her bright blue eyes say "Come back to rape and steal from us."  This could work. You are almost persuaded yourself. Everyone wants to go with you, but you can't take them all.
+
+# a4162d83
+; @choice "Choose a few helpers." goto:.Choose_a_few_helpers.
+
+# bdb150cb
+; You don't need gunmen, because there's not going to be a shootout. At least you don't think so. You need someone who knows how to hit a person in the head well enough to make them hallucinate. The obvious choice is a doctor. Great. You also take some strongmen, in case the Bad can't make it back on his own. He must be exhausted from sitting in the sun for so long.
+
+# 404ba2ca
+; @choice "Anything else?" goto:.Anything_else?
+
+# 62ae6103
+; @choice "How about a blesssing?" goto:.Let's_say_a_prayer.
+
+# 2983689a
+; You take ropes and guns. Just in case. You never know.
+
+# 69a0a9ae
+; @choice "Let's say a prayer." goto:.Let's_say_a_prayer.
+
+# f2d1f6eb
+; The priest is blessing you for the journey. Should you maybe take him with you?
+
+# 5843e6e9
+; @choice "Take him, after all it's a religious endeavor. Get your people and go." goto:.Go.
+
+# b1eeeab5
+; @choice "Let him stay and pray to God from here." goto:.Let_him_stay_and_pray_to_God_from_here.
+
+# 626eea25
+; The priest gathers the people. They go to church to provide you with spiritual support from a distance.  Even the suicidal man from under the clock tower creeps toward the church. That's the spirit! You say goodbye and leave. You are full of hope, although somewhere inside you have great doubts too. Can something like this work? The only hope is in the madness of the Bad and his possible brain damage, which you are counting on very much. Not nice.
+
+# e7c4ef72
+; @choice "Go." goto:.Go.
+
+# 8c163e57
+; It's extremely hot. As always. You are walking since the horses could be too loud, which would ruin the whole plan. You pass the Indian cemetery. Some Indians are greeting you. Are you the only one who sees them? Apparently. You go into the woods. It's very nice, some shade finally. Birds are singing. You try to walk quietly, not to disturb them. What nice people you are. After all, you have the Virgin Mary with you. The world is smiling. There he is. The Bad. Sitting in full sun, just as before. 
+
+# a367e65d
+; @choice "Discuss the strategy." goto:.Discuss_the_strategy.
+
+# 26774ea6
+; @choice "Take him by surprise." goto:.Great._Let's_do_it.
+
+# 7f46f8bf
+; The plan is simple. One of you will come up behind him and hit the Bad hard on the head. At this time the Virgin Mary will pass through the clearing, and when he awakens she will be standing before him in all her glory.
+
+# bf47ba8f
+; @choice "Great. Let's do it." goto:.Great._Let's_do_it.
+
+# cdd0d506
+; You realize how irrational it all is. But it's too late now. Way too late. One of the boys sneaks quietly between the trees, with a large piece of wood in his hand. He approaches the Bad, and before he has a chance to realize what is happening, he is hit on the head.
+
+# 21bd5bb2
+; @choice "Too hard." goto:.Too_hard.
+
+# 2e472ed
+; @choice "Perfect." goto:.Perfect.
+
+# 77ebd8e6
+; He falls to the ground unconscious. Blood is pouring from a wound on his head.  He does not move. You are waiting. Nothing. You are waiting. Still nothing. Is he dead? He can't be, people don't die here, right? What to do? Luckily, you have a doctor with you. 
+
+# 7eacc9e8
+; @choice "Send him to check on the Bad." goto:.Send_him_to_check_on_the_Bad.
+
+# 43b5fef1
+; The doctor carefully approaches the Bad. He lets you know that he is ok.  You breathe a sigh of relief. At this time, the Virgin Mary takes her position. The doctor wipes the blood from the Bad's face, gives him something to smell, and quickly runs off into the woods.
+
+# 709a02cf
+; @choice "The Bad regains consciousness." goto:.Perfect.
+
+# 65f19058
+; The Bad is stupefied, he doesn't know what has happened. He is rubbing his head, which apparently hurts a lot, he has a grimace of pain on his face. He looks up and sees her standing in front of him in bright robes, exactly as he saw her last time. He gets down on his knees and starts kissing her feet, to which she reacts with disgust. This makes him a little suspicious. Should the Mother of God be disgusted by her faithful servants? 
+
+# 89f4024e
+; @choice "Huh?" goto:.Huh?
+
+# e1c3c516
+; @choice "Hit him again. Carefully." goto:.Hit_him_again._Carefully.
+
+# 63b81792
+; It's hard to tell, she was only human, and dude smells awful.
+
+# 4ffd41d0
+; @choice "Fair enough." goto:.Hit_him_again._Carefully.
+
+# 72fbef04
+; A man with a piece of wood walks quietly out of the woods and hits the Bad from behind. It works. He's seeing the stars. He's smiling. The Virgin Mary is smiling, too. You give her signs that this is a good time. She winks at you with a communicative eye and begins speaking to the Bad. You forgot to determine exactly what she should say, so she's improvising. She's a lousy rhetor. She stammers and looks around in desperation. The Bad notices that. You guys are screwed. 
+
+# 3823a36b
+; @choice "You feel some warmth in your bag." goto:.You_feel_some_warmth_in_your_bag.
+
+# ac0c980
+; @choice "The girl begins to back away slowly." goto:.The_girl_begins_to_back_away_slowly.
+
+# 337e592a
+; That's the bottle the Indian woman gave to you. The liquid inside is shining brightly. Is it something radioactive? Possibly.  You open the bottle and pour a few drops on the ground. You have no idea why you did this. Oh wow! This is something you weren't prepared for. The Virgin Mary floated into the air. Now that's what you call a super gadget! However, the girl wasn't prepared for this either.
+
+# 44342706
+; @choice "She got really scared." goto:.The_girl_begins_to_back_away_slowly.
+
+# 38d173e1
+; She falls to the ground and tears her dress. Holy Mothers don't do that, that's for sure. The Bad realizes something is wrong, he's looking around. The girl starts running away. You come out of the bushes. The Bad greets you with a big smile. He congratulates you on your idea. You are all very disappointed, you don't even wanna talk. You walk away in silence. Birds still singing joyfully. It's a beautiful day.
+
+# 6ca65e1a
+; @choice "Go back to Gravestone." goto:SCENE10.Go_back_to_Gravestone.

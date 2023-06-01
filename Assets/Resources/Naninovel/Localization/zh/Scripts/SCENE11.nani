@@ -1,0 +1,400 @@
+; English <en> to Chinese <zh> localization document for `SCENE11` naninovel script
+
+# a8276f47
+; For some reason, everyone believes it can actually work. The Bad promises to help. He knows all about evil and bad people, so he's up to the task. Great. What a beautiful team you two are going to make. Then, suddenly, you have a moment of epiphany. Blue Lagune - the killer drink! You've seen with your own eyes what it can do to a person, at least blind them, at most kill them. With a bit of luck, you'll have both. You will serve it to the whole town and see what happens. They want evil? The Blue Lagune will meet their needs. Now decide.
+
+# ac8e7760
+; @choice "Blue Lagune." goto:.Blue_Lagune.
+
+# 8b9d2f
+; @choice "Let's invite some bandits." goto:.Let's_invite_some_bandits.
+
+# 5d8d9f7
+; You have some doubts. Are you really going to blind people with this drink? Possibly even kill them? Well, you won't force them to drink it. You'll prepare it and ask for volunteers, that's all, if they do it, it's at their own risk. Great, your conscience is clear then. At this point let's not dwell on it too much. Let the Blue Lagune do the work.
+
+# 8a37e7c0
+; @choice "What is this Blue Lagune anyway?" goto:.What_is_this_Blue_Lagune_anyway?
+
+# fc3200ee
+; @choice "Let's find the ingredients." goto:.Let's_find_the_ingredients.
+
+# 772b91b6
+; It is homemade moonshine, originally made by alcoholics in the East who were too poor to buy real alcohol. However, their moonshine methods are unreliable, sometimes producing methyl alcohol, a heavy poison, but that doesn't stop them from consuming it. 
+
+# 8be3b7f6
+; @choice "Sounds like a plan." goto:.Let's_find_the_ingredients.
+
+# b672221b
+; By no means are you a moonshine expert. But you know a thing or two. You know you need some methynol, some cough syrup, some medicine and something to give the drink a blue color. Maybe some poison berries?  Great idea. Send the kids to get the berries and the rest of the ingredients, and take care of the methynol yourself. That's the most important thing. 
+
+# ab93b5cd
+; @choice "Where can I find methynol in this town?" goto:.Where_can_I_find_methynol_in_this_town?
+
+# 7867daf6
+; You can't. You have to make it. How? That's a mystery. You'll need to do everything as if you were making real, not poisonous alcohol, put some dirt here and there, touch the utensils with unwashed hands and hope for the best.
+
+# bb897dea
+; @choice "You do just that." goto:.You_do_just_that.
+
+# 1ca33f3c
+; @choice "Is this actually a good idea?" goto:.Is_this_actually_a_good_idea?
+
+# 40750b68
+; It's the best idea in the world, don't worry. Blue Lagune won't let you down. You cannot let this lady down either. 
+
+# f2451158
+; @choice "OK. Fine." goto:.You_do_just_that.
+
+# 31e7d4b6
+; You go to the saloon and you get down to business. But are you hallucinating again? There is the old Indian woman right in front of you. She tells you to step back and she does the job. It seems like it's not her first time. After just an hour the alcohol is ready. 
+
+# 70bf7f77
+; @choice "So fast?" goto:.So_fast?
+
+# 80c6d6b0
+; Even if you're not a moonshiner, you know the process should take longer. Much longer. Well, so be it.  The kids come back with poison berries and half the pharmacy's assortment. Wonderful. You throw it all in the cauldron. The drink turns blue, looks beautiful, makes you want to taste it. However, you don't have much hope that it will work. The Bad, who has not left you for a step all this time, makes signs of the cross over the cauldron. Yeah, it will work now for sure. Let's find out. Ask for volunteers. 
+
+# 2e364e5a
+; @choice "Suprisingly, everybody wants to taste it." goto:.Suprisingly,_everybody_wants_to_taste_it.
+
+# 95a65871
+; @choice "Tell them what the Blue lagune will most probably do to them." goto:.Tell_them_what_the_Blue_lagune_will_most_probably_do_to_them.
+
+# b1ba4ded
+; You do everything in your power to warn them. You tell them about the terrible consequences of consuming the drink. About blindness, excruciating pain, irreversible damage to internal organs. Deep down you hope that no one will come forward to drink the Blue Lagoon. You wouldn't. To your horror, a crowd of people raise their hands. Their choice.
+
+# fff6a3a1
+; @choice "Bring on the Lagoon." goto:.Suprisingly,_everybody_wants_to_taste_it.
+
+# 6b2592a0
+; You pour the drink into the cups they brought with them.  They are well prepared, bravo. They take a sip and immediately start screaming in pain. That's an awful view. But hey, does the killer drink actually work? It seems like it does. Yup, it does. No one died. For now. But people are clearly suffering and one after another go blind.
+
+# e0902fe9
+; @choice "Success?" goto:.Success?
+
+# 719bdbcb
+; Have you really learned nothing yet? How can you trust these people with anything? They can't even get a decent alcohol poisoning. Even the Blue Lagoon is helpless here.
+
+# 2af6e00e
+; @choice "How come?" goto:.How_come?
+
+# a1d66ff3
+; They went blind, yes, they suffer, sure, but right away they see it as a blessing. They begin to thank you, saying that until now they were blind, looking with their healthy eyes, they could only see the external, the superficial. Now, on the contrary, they can look with their souls and see the true nature of everything and the inner beauty of every human being.
+
+# 7c7cebb9
+; @choice "You give up." goto:.You_give_up.
+
+# 29436c08
+; All hope is lost. The Bad is equally disappointed. Blinded townspeople run in ecstasy, bumping into each other. Can it be any worse? 
+
+# 4d124941
+; @choice "You get full mode depressed." goto:SCENE12.Now...
+
+# 3d8246c7
+; @choice "You are ready to give bandits from foreing lands a chance." goto:.Burn_some_trash_and_get_the_bird.
+
+# fc2790f8
+; But how can you actually do it? The town is cut off from the world. Or is there a way to communicate after all? You quickly learn that not only can Gravestone communicate with the world, but that it is also a worldwide phenomenon and a very notorious place because of all the strange things that happen here. So why have you never heard of it? Probably because you don't read newspapers. A few of the people who are trapped here were adventurous daredevils who decided to see Gravestone with their own eyes. And they quickly regretted it. A few others are those, who answered the town's cry for help, tempted by the large amounts of gold, offered as reward. Needless to say, they too regret their decision. 
+
+# 26685e1c
+; @choice "OK. So what's the drill?" goto:.OK._So_what's_the_drill?
+
+# 7c5f983
+; This is actually very simple. All you have to do is send smoke signals to the world to let them know you want to communicate. Then they send a carrier pigeon. Or a falcon. You put your message in a special backpack that it has on its neck and send it on its way back. And there you go, done. Wait, what? Birds can fly back and forth just like that? Not just birds, all animals can move freely between Gravestone and the outside world. Interesting.
+
+# a796244b
+; @choice "Burn some trash and get the bird." goto:.Burn_some_trash_and_get_the_bird.
+
+# 96a5138e
+; You do just that and before long the bird with a tiny bag on its neck flies into your open arms. What a moment. You send your message to some of the largest newspapers in the country. You ask them to publish an advertisement for your contest for the position of chief hoodlum in Gravestone. You specify that you only want the worst outlaws with the best skills. You also list the duties of the position and the skills required. Just in case. It's not often you see announcements like this.
+
+# fc094c1f
+; @choice "What are these duties?" goto:.What_are_these_duties?
+
+# ed655014
+; @choice "So now we wait." goto:.So_now_we_wait.
+
+# 21fc122
+; Oh you know, nothing special really. Assault, robbery, burglary, extortion. Kidnapping. Theft. Brawling. Inappropriate behavior towards women and clergy, executions of innocent people. Killing animals and destruction of crops.
+
+# 30d9d2cb
+; @choice "Sounds reasonable." goto:.So_now_we_wait.
+
+# 47562d45
+; You didn't have to wait long. Volunteers started arriving soon. Which is great, but... they are not exactly what you expected. You try not to start crying. You still have hope, don't lose it.
+
+# f9bc99a1
+; @choice "OK, you've lost it." goto:.OK
+
+# a51caf87
+; @choice "What about these volunteers?" goto:.What_about_these_volunteers?
+
+# 44fb0a60
+; @choice "Whatever. Let's do it." goto:.Whatever._Let's_do_it.
+
+# e09a14b7
+; For a moment, you forgot who you were. But you have pondered, thought, recalled various stories from your life, and you pulled yourself together.
+
+# b686ab9
+; @choice "So. Shall we?" goto:.Whatever._Let's_do_it.
+
+# 7ef5bbf5
+; Let's see. What do we have here... OK, let's pick a few. 
+
+# 8d675be0
+; Luigi, an Italian dressed in rags, with light sun-faded hair and blue eyes. No shoes. 
+
+# b9071cd6
+; Barret, a fat man, knows about cows and arsenic. 
+
+# 7963391d
+; Joan, a woman in men's clothing, with an ornate scarf around her neck and a hat slipped down her back. She works in public relations. Aka brothels. 
+
+# 16d45844
+; Henry, a doctor (doesn't work in the profession), a handsome middle-aged man, with a bushy mustache and a bloody handkerchief in his hand, coughing disgustingly from time to time, dying of tuberculosis. One of the best gunslingers of the Wild West
+
+# b0fe439a
+; A very old cowboy who can barely stand on his feet, can barely hear or see. Supports himself with a cane. 
+
+# e0333781
+; @choice "Is that a joke?" goto:.Whatever._Let's_do_it.
+
+# bfebec84
+; It doesn't look good, true. Actually, it looks pretty bad. Hopeless, to be homest. But you're not used to giving up, oh no. You have an idea. You'll train them. And then you pick the best one. And that's it, the world is saved. Easy. Great. 
+
+# af69d569
+; @choice "You organize a training camp." goto:.You_organize_a_training_camp.
+
+# 25c0edbb
+; You, the Bad, the priest, Old Joe, and Henry set up a makeshift camp outside of town. Wasting no time, you immediately set about training the volunteers, though you have little hope of success. If any. 
+
+# dddf5819
+; @choice "Why? Well..." goto:.Why?_Well...
+
+# 5896f93
+; Your camp looks more like a circus. Some people are shooting paper figures of women and children, the fat guy is runing around the camp cheered on by his family (equally fat), the hookers, who have also decided to up their game, are doing ambushes - digging holes in the ground, masking them with branches and so on. A few villagers are learning to fist-fight, and it goes badly, they are all covered in blood, barely able to stand. Luigi is lying in the shade under a tree, drinking a beer (or so he thinks), watching all this amused. Joan is cleaning her shotgun and the old cowboy is pounding a tree with his cane.
+
+# 63e9944e
+; @choice "Could it be any worse?" goto:.Could_it_be_any_worse?
+
+# bac5a5d4
+; @choice "Let's help them a little." goto:.Let's_help_them_a_little.
+
+# 7c0b1fa0
+; You are such a pessimist. Of course it could be worse. 
+
+# 45cb33d
+; @choice "I doubt it, but..." goto:.Let's_help_them_a_little.
+
+# 72d85c63
+; You come up with another fantastic idea. Maybe people would be more motivated if they could shoot at a live target. But where to get one? The Bad, who also thinks that's a great idea suggests sending for some thugs from the prison in Yuma. You are already on your way to send for the bird. 
+
+# 87c05343
+; @choice "It works." goto:.It_works.
+
+# dc35c61a
+; You don't have to wait long. Just a few days later your outllaws are on a train to Gravestone. You, Henry and the priest go to pick them up. The Bad says he would love to help too, but unfortunately it's Friday, and Friday is the day he comforts widows and feeds orphans. Great. 
+
+# b80af1f1
+; @choice "Go to pick them up." goto:.Go_to_pick_them_up.
+
+# 27f66fab
+; @choice "You've changed your mind. Send the guys to pick them up." goto:.You've_changed_your_mind._Send_the_guys_to_pick_them_up.
+
+# 62933557
+; The train station is located in an empty field. Nothing around. The weather as usual. Not a single cloud in the sky, the heat is pouring from the sky. Silence. You can only hear the heavy breathing of your horses. You are waiting. And waiting. You spit through your teeth. Suddenly, you hear a train whistle in the distance. The rails begin to tremble. You can see clouds of black smoke coming out of the train's chimney. Here it comes. It takes a good few more minutes before it pulls into the station.
+
+# d0da86fb
+; @choice "Finally." goto:.Finally.
+
+# 62cc4745
+; The only passengers on this train are three bandits and the sheriff's deputies guarding them. One for each. The bandits have their hands and feet shackled, they must be really dangerous. At least that's what it looks like. They're dirty and bad looking. Perfect. You don't have horses for them, so they go on foot. The sound of their shackles floats through the air, a music to your ears. It's been a long time since you've heard anything as beautiful as this. Ah, the old days... 
+
+# 72012a2f
+; @choice "You are sinking into memories." goto:.You_are_sinking_into_memories.
+
+# 73aa8e56
+; @choice "You arrive in town." goto:.You_arrive_in_town.
+
+# 4eb2d284
+; You reminisce about the good old days when bandits were bandits and you could do your job in peace. You recall with nostalgia the shootings in saloons, the ambushes on bandits, killing them one by one in the desert under the scorching sun. If only it could be like it used to be...
+
+# 81e48705
+; @choice "You finally reach the town." goto:.You_arrive_in_town.
+
+# 5d5fb355
+; After just a few hours they are back. And they have your bandits. You're quite pleased with what you see. Actually, you couldn't think of anything better. The perfect Wild West villains.
+
+# e65f61e3
+; @choice "Lock them in jail." goto:.You_arrive_in_town.
+
+# 7b8398ca
+; People look on hopefully as you lead the bandits through town. You take them to jail, finally useful for something. Old Joe's happy. The same cannot be said for the outlaws though. They are clearly confused. You lock them in cells from which you first kick the homeless out. Good.
+
+# 6ac1819d
+; @choice "Let's check on the camp." goto:.Let's_check_on_the_camp.
+
+# ec948baa
+; It doesn't look much better. Except for one thing. The Bad apparently got really into the whole shooting thing. Did he forget about the orphans?  He's instructing your volunteers, but he clearly enjoys it. Is there hope? Maybe he'll miss it and stop fooling around? That would be wonderful, but... You realize that all this training is rather a waste of time, nothing will come of it. It's time to get on with the competition. 
+
+# 5fb5f0fb
+; @choice "Let's get to work." goto:.Let's_get_to_work.
+
+# eaf62558
+; The competition will take place at the town square. It will consist of three stages. In the first stage everyone will take part. To the second stage will go ten people. Two best contestants will get to the final stage. Or rather two worst, to be exact.
+
+# f3f893a9
+; @choice "Let's." goto:.Let's.
+
+# 31612633
+; The first round begins. The whole town came to watch. No change in the weather. The atmosphere is a bit more optimistic. You are not optimistic at all, but... you have nothing to lose either. OK. Let's choose a task for the first round. It looks like fun. 
+
+# b9817b40
+; @choice "Shooting disobedient peasants." goto:.Shooting_disobedient_peasants.
+
+# 96bd3809
+; @choice "Insulting a widow." goto:.Insulting_a_widow.
+
+# baa90bc7
+; @choice "Tying a noose around a bandit's neck." goto:.Tying_a_noose_around_a_bandit's_neck.
+
+# 969d4fd4
+; The prisoners, dressed as peasants, are led by the men who brought them into the town square. The prisoners are terrified. The men are also rather skeptical about the execution that is about to take place. The townspeople, on the contrary, are delighted. The prisoners are placed in the middle of the square so that behind them there is only empty space. The Bad marks a large circle in the sand around them. They are not allowed to cross this line. The contestants line up to shoot.
+
+# efe67578
+; @choice "Each person shoots once." goto:.Each_person_shoots_once.
+
+# 607bdb4f
+; Most of them miss. The prisoners nervously look around, but the men who brought them here hold them at gunpoint. It's not good to be a bandit these days. The Bad is a referee, walking around with a notebook, writing down scores. Henry hits first, right in the forehead of one of the bandits. The bandit falls to the ground, but soon after he starts moving. He is clearly surprised. He wipes his bloodied face, looking around questioningly. The Bad tells him to get back in line. A few other people hit them as well. What a mess. Bullet-riddled bandits stand it a pool of blood. The competition is coming to an end. 
+
+# 1c9030d3
+; @choice "Round 2." goto:.Round_2.
+
+# 66f56910
+; Our beautiful widow plays the part of the widow. Who came up with this brilliant idea? Nobody knows. But what is going on here? The contestants are boycotting this competition. Joan and Henry say they don't insult women, and the rest... well, they just give up. Apparently they don't have the gift of eloquence. The Bad tells them to shoot the bandits instead. They do it gladly.
+
+# 1c9030d3
+; @choice "Round 2." goto:.Round_2.
+
+# c7803fcd
+; Competitors line up in three rows, in front of three bandits, who are terrified to death by now. They are given ropes. They make loops on them, put them around the bandits' necks and check by pulling upwards to see if they did it right. They do it rather clumsy. Only Luigi, Joan and Henry have no problems with this task. Some other guys are doing all right too. The crowd is going crazy. People are yelling and cheering. The outlaws exchange puzzled looks. They have never seen anything like this before. What a sick community. OK, we have our winners.
+
+# 1c9030d3
+; @choice "Round 2." goto:.Round_2.
+
+# 85ecd995
+; Ten people will participate in the second round, including Henry, Joan, the Kid and our barefoot friend from Italy. After a short break, people return to the square, impatient to see the next part of the competition. The bandits have been cleaned of blood and brought to some sort of order. They are ready.  They do not seem too thrilled about what is to come. You can spare them if you wish.
+
+# faa10731
+; @choice "Suddenly, the Bad remembers something." goto:.Suddenly,_the_Bad_remembers_something.
+
+# 99aad1e6
+; It's time to hang on the cross. He does this every day for an hour in order to become closer to Christ by participating in his suffering. You try to talk him out of it, but you soon realize it's no use. For an hour the Bad hangs on the cross praying to God. The townspeople wait patiently. You are a little annoyed, but you know there is no other way out. Okay, it's over. 
+
+# bee24d86
+; Choose a task.
+
+# a06e8092
+; @choice "Horseback riding with obstacles." goto:.Horseback_riding_with_obstacles.
+
+# 6147620d
+; @choice "Bank robbery." goto:.Bank_robbery.
+
+# 68b0e4cb
+; The competitors line up, Henry lets Joan pass, she thanks him with a lady's smile. Groups of fans have formed. All the hookers cheer for Joan. Other ladies half cheer for Henry, half for the Italian. The rest of the competitors are cheered on by their families.
+
+# b94cb35c
+; The obstacle course consists of a fallen tree, a burning wagon, bloodied bandits running chaotically, and a big hole in the ground covered with branches.
+
+# 3644f3a
+; @choice "Go!" goto:.Go!
+
+# d7f82870
+; Joan is doing well, but at one point the horse rears, almost throwing her to the ground. She manages to stay in the saddle. The audience is applauding. The hookers are happy. 
+
+# 4ef6b8e0
+; The Kid has trouble staying on the horse's back from the very beginning. He holds on tight, but the horse throws him around like crazy.
+
+# e570d68c
+; The Italian has no trouble at all with this task.  You can see that he's used to riding bareback. He's passing obstacles, kicking the running bandits out of the way. He rides triumphantly to the finish line. The ladies are cheering.
+
+# 1b4f9b98
+; Henry is also doing well. It's like he was born in the saddle. 
+
+# 5cfc75cc
+; They leave the rest far behind.
+
+# b554e829
+; @choice "And the winners are..." goto:.And_the_winners_are...
+
+# 46851702
+; The decision is difficult, but the Bad decides that the winners are Henry and Joan. This seems a bit unfair, since Luigi was clearly the best. Could it be that our judge is biased for some reason? Luigi doesn't seem to care at all though. He sits in the shadows. A garland of women immediately surrounds him. He looks really pleased. Him and girls are getting ready to watch the final round.
+
+# a68f54a
+; @choice "Finals." goto:.Finals.
+
+# f3891026
+; The bandits play the role of a bank employee, a security guard, and a customer. Whoever gets shot, stays down. The competitors can team up in squads. They choose their weapons. They have a choice of Colts, Winchesters, a Gatling gun and a mountain of dynamite. There are ropes, matches, some jars of suspicious liquid, scarves and lots of bullets.
+
+# 68f6c6f2
+; @choice "The Italian, Henry and Joan decide to work together." goto:.The_Italian,_Henry_and_Joan_decide_to_work_together.
+
+# fba95cfd
+; They come forward as the first group. The bandits are very reluctant to take their positions in the bank. The Italian drags the Gatling gun in front of the main entrance. Joan and Henry tie scarves over their faces, take two revolvers each and a lot of cartridges, dynamite and matches, as well as sacks for the loot. 
+
+# 98582647
+; @choice "They are ready." goto:.They_are_ready.
+
+# df8baae7
+; They sneak into the bank from behind. The Italian secures the entrance. Everything is going swimmingly. Joan throws a stick of dynamite through the window to confuse the cashier and the customer. The security guard wants to go inside, but he gets shot, falls down, doesn't get up. Joan and Henry jump inside through the window. In both hands they are holding revolvers pointed at the cashier and the customer. The cashier tries reaching for the gun, gets shot by Henry, falls down, doesn't move. Joan holds the client at gunpoint, Henry goes to blow the safe. 
+
+# b900a5e9
+; @choice "Rumble!" goto:.Rumble!
+
+# c10f1fe1
+; He's a little overdone with the dynamite, there are banknotes flying around the room, the safe is destroyed. Henry fills the two bags with the cash that still has some use. Oh, there is also some gold. Luckily, not destroyed. Dragging the bags along the ground he leaves the bank, Joan follows him, holding a customer at gunpoint. The Italian joins them. The job is done. People are cheering.
+
+# 2cf44f4
+; @choice "The rest of the competitors..." goto:.The_rest_of_the_competitors...
+
+# 1a1d7703
+; ... weren't able to cooperate, so they ended up dead pretty soon. Great. But there is a problem. We were supposed to have two winners and we have three. The Italians says that the job is actually too stressful for him and that he will resign with pleasure. And so he does. The girls are delighted, now he's all theirs. He's equally delighted. They walk away together.
+
+# a68f54a
+; @choice "Finals." goto:.Finals.
+
+# e68820f2
+; The atmosphere is tense. People are waiting impatiently for the last round of the competition. They are full of hope. Is it possible that their nightmare will soon end? Let's find out. 
+
+# d8e5f537
+; @choice "The last round is pretty fun." goto:.The_last_round_is_pretty_fun.
+
+# c62708fa
+; Two outlaws are led to the gallows and placed on wobbly stools. They have nooses around their necks. So cinematic. The task is to hang them as quickly as possible by shooting at the legs of the stools. Easy. The infliction of wounds on bandits is permitted, except for fatal wounds. That is, fatal under normal circumstances. Inflicting such a wound is synonymous with losing this round, and thus the entire competition. Henry and Joan clean their revolvers. Henry hides a bloody handkerchief in his pocket, which does not escape Joan's attention. She looks at him with concern.
+
+# e58eb75f
+; @choice "It's time." goto:.It's_time.
+
+# 92890d1
+; Joan and Henry take up shooting positions. Each is to shoot at a specific bandit. The Bad gives the sign. Ready, go! Bullets and stool splinters glide through the air. People shout excitedly. The outlaws struggle to keep their balance, the stools are wobbling. You can see the terror on their faces. They are fighting for their lives. Or so they think. At one point, Henry starts coughing heavily, spitting blood. Terrified, Joan runs up to him and wipes his mouth with her white handkerchief. It becomes red.
+
+# e72ccaa
+; @choice "Joan whispers to Henry." goto:.Joan_whispers_to_Henry.
+
+# 758f0907
+; Suddenly there is silence among the people. They don't know what is going on. The Good, who was observing everything from a distance, trying not to get involved, knows it well, however. This is exactly what he had feared for some time now. Goddammit. Yup, that's right. The bandits are still balancing on stools, but no one is paying attention. All eyes are on Joan and Henry. And what do they do? They drop their revolvers on the ground and walk away without a word. Everything is clear, no words are needed here.
+
+# 8f3c8be7
+; @choice "All hope is lost." goto:.All_hope_is_lost.
+
+# f139de2b
+; People are in shock. They can't believe it really happened. The atmosphere changes dramatically. There is a general despondency. Nobody moves. Except for the thugs on the stools trying not to hang themselves. The only cheerful person is the third bandit, the one who did not participate in this round. He doesn't know what's going on here, but he likes the situation. Taking advantage of a moment of inattention from his guards, he breaks free, picks up the revolvers left by Henry and Joan, and starts shooting at his friends at the gallows. He is surprised that no one tries to stop him. What's more, people are cheering him on. Have they all gone mad? It looks like it. The Good and the Bad exchange knowing glances. This could actually work.
+
+# c320b1b
+; @choice "Suddenly..." goto:.Suddenly...
+
+# d28daf66
+; It's getting a little darker and a little cooler. Clouds appear in the sky. It looks like rain is coming. People are happy. They run up to the bandit thanking him for saving them. Wait a minute, what? That's not what he wanted. Helping people? Never! He throws away the revolvers and gives himself over to the Bad. He didn't sign up to be a hero. That would be against his beliefs. Very smart move, indeed. Disappointed, people return to their homes. It's over.
+
+# 4dcc99a2
+; @choice "Now..." goto:SCENE12.Now...
